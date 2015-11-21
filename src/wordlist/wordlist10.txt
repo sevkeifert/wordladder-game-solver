@@ -1,0 +1,1482 @@
+1481
+abasements	1	1
+abatements	1	0
+abjections	1	922
+abjuration	1	25
+abominable	1	5
+abominably	1	4
+abrogating	1	84
+abrogation	1	85
+absolutism	1	9
+absolutist	1	8
+acceptable	1	11
+acceptably	1	10
+accessable	1	13
+accessible	2	12	14
+accessibly	1	13
+accidental	1	930
+acclimated	1	17
+acclimates	1	16
+achromatic	1	19
+achromatin	1	18
+acquiesced	1	21
+acquiesces	1	20
+acrobatics	1	45
+addressees	1	24
+addressers	1	23
+adjuration	1	3
+adjustable	1	27
+adjustably	1	26
+admissible	1	29
+admissibly	1	28
+admonished	1	31
+admonishes	1	30
+adulterers	1	33
+adulteress	1	32
+adumbrated	1	35
+adumbrates	1	34
+advantaged	1	37
+advantages	1	36
+adventured	2	39	40
+adventurer	2	38	40
+adventures	2	38	39
+advertised	3	42	43	44
+advertiser	2	41	43
+advertises	2	41	42
+advertized	1	41
+aerobatics	1	22
+affiliated	1	47
+affiliates	1	46
+aggravated	1	49
+aggravates	1	48
+aggregated	1	51
+aggregates	1	50
+alleviated	2	53	54
+alleviater	3	52	54	55
+alleviates	2	52	53
+alleviator	1	53
+alliterate	1	687
+allowanced	1	58
+allowances	1	57
+allusively	1	688
+altercated	1	61
+alternated	2	60	62
+alternates	1	61
+amanuenses	1	64
+amanuensis	1	63
+antagonism	1	66
+antagonist	1	65
+antitheses	1	68
+antithesis	1	67
+apiararies	1	110
+apologized	1	71
+apologizes	1	70
+apotheoses	1	73
+apotheosis	1	72
+applicable	1	75
+applicably	1	74
+appointees	1	77
+appointers	1	76
+appositely	1	933
+approached	2	80	81
+approacher	2	79	81
+approaches	2	79	80
+arbitrated	1	83
+arbitrates	1	82
+arrogating	1	6
+arrogation	1	7
+ascendable	1	91
+ascendance	2	88	89
+ascendancy	2	87	90
+ascendence	2	87	90
+ascendency	2	88	89
+ascendible	1	86
+associated	1	93
+associates	1	92
+astonished	1	95
+astonishes	1	94
+attachable	1	97
+attackable	1	96
+attainable	1	99
+attainably	1	98
+attenuated	1	101
+attenuates	1	100
+attributed	1	103
+attributes	1	102
+auspicious	1	1332
+authorized	2	106	107
+authorizer	2	105	107
+authorizes	2	105	106
+avalanched	1	109
+avalanches	1	108
+aviararies	1	69
+backspaced	1	112
+backspaces	1	111
+barberries	1	116
+barricaded	1	115
+barricades	1	114
+bayberries	1	113
+beautified	2	118	119
+beautifier	2	117	119
+beautifies	2	117	118
+believable	2	121	1126
+believably	1	120
+bellyached	1	123
+bellyacher	1	122
+beneficing	1	125
+benefiting	1	124
+besmirched	1	127
+besmirches	1	126
+bijections	1	129
+bisections	1	128
+blasphemed	2	131	132
+blasphemer	2	130	132
+blasphemes	2	130	131
+blistering	1	135
+blundering	1	973
+blustering	3	133	222	584
+braininess	2	137	637
+brawniness	1	136
+brightened	2	139	616
+brightener	1	138
+brilliance	1	141
+brilliancy	1	140
+bronchitic	1	143
+bronchitis	1	142
+brutalized	1	145
+brutalizes	1	144
+burlesqued	1	147
+burlesques	1	146
+burnishing	1	624
+buttressed	1	150
+buttresses	1	149
+calamander	1	1189
+calculated	1	153
+calculates	1	152
+calibrated	1	155
+calibrates	1	154
+callowness	1	1192
+campaigned	1	158
+campaigner	1	157
+capitalism	1	160
+capitalist	1	159
+captiously	1	178
+captivated	1	163
+captivates	1	162
+carabineer	1	165
+carabinier	1	164
+carbolated	1	167
+carbonated	2	166	168
+carbonates	1	167
+carbonized	2	170	171
+carbonizer	2	169	171
+carbonizes	2	169	170
+cartridges	1	948
+catalogued	2	174	175
+cataloguer	2	173	175
+catalogues	2	173	174
+catechized	1	177
+catechizer	1	176
+cautiously	1	161
+cavalryman	1	180
+cavalrymen	1	179
+celebrated	2	182	188
+celebrates	1	181
+cemetaries	1	184
+cemeteries	1	183
+censurable	1	873
+centralism	1	187
+centralist	1	186
+cerebrated	1	181
+challenged	2	190	191
+challenger	2	189	191
+challenges	2	189	190
+changeling	1	193
+channeling	1	192
+channelled	1	195
+channeller	1	194
+characters	1	197
+charactery	1	196
+charitable	1	199
+charitably	1	198
+chartering	1	201
+chattering	3	200	221	1226
+chauvinism	1	203
+chauvinist	1	202
+cheekiness	2	205	206
+cheeriness	2	204	206
+cheesiness	2	204	205
+chronicled	2	208	209
+chronicler	2	207	209
+chronicles	2	207	208
+chumminess	1	320
+cincturing	1	1370
+circulated	1	213
+circulates	1	212
+clanswoman	1	215
+clanswomen	1	214
+classicism	1	217
+classicist	1	216
+classified	2	219	220
+classifier	2	218	220
+classifies	2	218	219
+clattering	3	201	223	573
+clustering	3	135	223	584
+cluttering	3	221	222	585
+coarseness	1	665
+cochleleae	1	226
+cochleleas	1	225
+columnated	1	228
+columnates	1	227
+columnized	1	230
+columnizes	1	229
+comeliness	1	666
+commanding	1	234
+commencing	2	234	235
+commending	3	232	233	235
+commenting	2	233	234
+comparable	1	237
+comparably	1	236
+compatible	1	239
+compatibly	1	238
+competence	1	241
+competency	1	240
+complained	1	243
+complainer	1	242
+complement	1	247
+compliance	1	246
+compliancy	1	245
+compliment	1	244
+compressed	1	249
+compresses	1	248
+concession	2	252	255
+concessive	1	253
+concussion	1	250
+concussive	1	251
+confection	2	265	286
+confession	1	250
+configured	1	257
+configures	1	256
+confirming	1	259
+conforming	1	258
+confronted	1	261
+confronter	1	260
+congruence	1	263
+congruency	1	262
+connecters	1	267
+connection	2	254	286
+connective	1	287
+connectors	1	264
+conquerers	1	269
+conquerors	1	268
+consenting	1	277
+consorting	1	282
+constrains	1	273
+constraint	1	272
+constricts	1	275
+constructs	1	274
+contending	1	277
+contenting	3	270	276	279
+contention	1	288
+contesting	1	277
+contiguous	1	281
+continuous	1	280
+contorting	1	271
+contracted	1	284
+contrasted	2	283	285
+contraster	1	284
+convection	4	254	265	288	292
+convective	1	266
+convention	2	278	286
+converging	2	290	291
+conversing	2	289	291
+converting	2	289	290
+conviction	1	286
+cooperated	1	294
+cooperates	1	293
+copulating	1	974
+copulation	1	975
+corpulence	1	298
+corpulency	1	297
+correlated	1	300
+correlates	1	299
+covenanter	1	302
+covenantor	1	301
+coweringly	1	857
+craftiness	1	463
+creakiness	1	306
+creaminess	2	305	464
+creditable	1	308
+creditably	1	307
+crimpiness	1	311
+crinkliest	1	1479
+crispiness	1	309
+criticised	2	313	315
+criticises	3	312	314	317
+criticisms	1	313
+criticized	3	312	316	317
+criticizer	2	315	317
+criticizes	3	313	315	316
+crosshatch	1	319
+crosspatch	1	318
+crumminess	1	210
+culminated	2	322	621
+culminates	1	321
+cultivated	1	324
+cultivates	1	323
+cummerbund	1	826
+curability	1	468
+customized	2	328	329
+customizer	2	327	329
+customizes	2	327	328
+cyclopedia	1	331
+cyclopedic	1	330
+damoiselle	1	358
+deactivate	1	1064
+decagramme	1	337
+deceivable	1	1080
+deceptions	1	1081
+decigramme	1	334
+deciphered	1	339
+decipherer	1	338
+decisively	1	381
+declassify	1	1082
+decomposed	1	343
+decomposes	1	342
+dedication	1	870
+deductions	1	1101
+defections	1	394
+defendants	1	369
+deflection	1	1111
+deflective	1	1112
+degenerate	1	1115
+delectable	4	352	353	391	1216
+delectably	2	351	392
+delectible	2	351	393
+delegating	1	1124
+delegation	1	1125
+delineated	1	357
+delineates	1	356
+demoiselle	1	332
+demolished	1	360
+demolishes	1	359
+denigrated	1	362
+denigrates	1	361
+denouncing	1	1133
+deodorized	1	365
+deodorizer	1	364
+department	1	375
+dependable	1	368
+dependably	1	367
+dependants	2	347	372
+dependence	1	371
+dependency	1	370
+dependents	1	369
+deplorable	1	374
+deplorably	1	373
+deportment	1	366
+deposition	1	1137
+depositors	1	378
+depository	2	377	1138
+depressing	1	1139
+deputation	1	1148
+derisively	1	340
+deservedly	1	1152
+deshabille	1	425
+designated	1	385
+designates	1	384
+designedly	1	1153
+despatched	1	431
+despicable	1	389
+despicably	1	388
+detainment	1	1162
+detectable	4	351	392	393	398
+detectably	3	352	391	399
+detectible	2	353	391
+detections	1	346
+determined	2	396	397
+determiner	2	395	397
+determines	2	395	396
+detestable	2	391	399
+detestably	2	392	398
+detraction	1	1163
+devastated	1	402
+devastates	1	401
+devitalize	1	1170
+diagrammed	1	405
+diagrammer	1	404
+dignifying	1	1229
+dilettante	1	408
+dilettanti	1	407
+diminished	1	410
+diminishes	1	409
+discharged	2	412	413
+discharger	2	411	413
+discharges	2	411	412
+disclaimed	1	415
+disclaimer	1	414
+discounted	1	430
+discoursed	1	418
+discourses	1	417
+discovered	1	420
+discoverer	1	419
+disengaged	1	422
+disengages	1	421
+disfigured	1	424
+disfigures	1	423
+dishabille	1	383
+dislocated	1	427
+dislocates	1	426
+disloyally	1	429
+disloyalty	1	428
+dismounted	1	416
+dispatched	3	387	432	433
+dispatcher	2	431	433
+dispatches	2	431	432
+dispensers	1	436
+dispensing	1	437
+dispersers	1	434
+dispersing	1	435
+displacing	2	439	883
+displaying	1	438
+displeased	1	441
+displeases	1	440
+dissecting	1	446
+dissembled	1	444
+dissembler	1	443
+dissension	1	451
+dissenting	1	442
+dissipated	2	448	449
+dissipater	3	447	449	450
+dissipates	2	447	448
+dissipator	1	448
+distension	2	445	452
+distention	1	451
+distressed	1	454
+distresses	1	453
+distrusted	1	884
+documented	1	457
+documenter	2	456	458
+documentor	1	457
+dominating	1	913
+domination	1	914
+downgraded	1	462
+downgrades	1	461
+draftiness	1	304
+dreaminess	2	306	465
+dreariness	1	464
+duplicated	1	467
+duplicates	1	466
+durability	1	326
+ebullience	1	470
+ebulliency	1	469
+economized	2	472	473
+economizer	2	471	473
+economizes	2	471	472
+ejaculated	1	475
+ejaculates	1	474
+elaborated	1	477
+elaborates	1	476
+elasticity	1	970
+electrical	1	480
+electrican	1	479
+eliminated	1	482
+eliminates	1	481
+elucidated	1	484
+elucidates	1	483
+emamelware	1	496
+embroiders	1	487
+embroidery	1	486
+empaneling	1	695
+empanelled	1	696
+emphasized	1	491
+emphasizes	1	490
+empiricism	1	493
+empiricist	1	492
+emulsified	1	495
+emulsifier	1	494
+enamelware	1	485
+encouraged	1	498
+encourages	1	497
+encroached	1	500
+encroaches	1	499
+engagement	1	502
+enragement	1	501
+entangling	1	1423
+enthralled	1	798
+entrenched	1	506
+entrenches	1	505
+enumerated	1	508
+enumerates	1	507
+enunciated	1	510
+enunciates	1	509
+enwrapping	2	811	1424
+epitomized	2	513	514
+epitomizer	2	512	514
+epitomizes	2	512	513
+eradicated	1	516
+eradicates	1	515
+erotically	1	537
+escalading	1	519
+escalating	1	518
+ethereally	1	521
+etherially	1	520
+evacuating	1	524
+evacuation	1	525
+evaluating	1	522
+evaluation	1	523
+evangelism	1	527
+evangelist	1	526
+evaporated	1	529
+evaporates	1	528
+excellence	1	531
+excellency	1	530
+exercising	1	535
+exonerated	1	534
+exonerates	1	533
+exorcising	2	532	536
+exorcizing	1	535
+exotically	1	517
+expandable	1	541
+expedience	2	540	542
+expediency	1	539
+expendable	2	538	547
+experience	1	539
+explicated	1	544
+explicates	1	543
+expurgated	1	546
+expurgates	1	545
+extendable	1	541
+extensions	1	549
+extentions	1	548
+extradited	1	551
+extradites	1	550
+extricated	1	553
+extricates	1	552
+exuberance	1	555
+exuberancy	1	554
+fabricated	1	557
+fabricates	1	556
+factitious	1	569
+fascinated	1	560
+fascinates	1	559
+favourable	1	562
+favourably	1	561
+feathering	1	1462
+federalism	1	565
+federalist	1	564
+fertilized	2	567	568
+fertilizer	2	566	568
+fertilizes	2	566	567
+fictitious	1	558
+flagrantly	1	607
+flashiness	1	576
+flattening	1	573
+flattering	4	221	572	577	585
+flatulence	1	575
+flatulency	1	574
+fleshiness	1	571
+flittering	4	573	585	617	634
+flourished	1	579
+flourishes	1	578
+fluctuated	1	581
+fluctuates	1	580
+fluoresced	1	583
+fluoresces	1	582
+flustering	3	135	222	585
+fluttering	4	223	573	577	584
+forecasted	2	587	592
+forecaster	1	586
+foreclosed	1	589
+forecloses	1	588
+forefather	1	591
+foregather	1	590
+foretasted	2	586	593
+foretastes	1	592
+forgivable	1	595
+forgivably	1	594
+formalized	2	597	915
+formalizes	2	596	916
+formidable	1	599
+formidably	1	598
+formulated	1	601
+formulates	1	600
+fornicated	1	603
+fornicates	1	602
+fortifying	1	892
+fossilized	1	606
+fossilizes	1	605
+fragrantly	1	570
+franchised	1	609
+franchises	1	608
+freelanced	1	611
+freelances	1	610
+frequented	1	613
+frequenter	1	612
+fricasseed	1	615
+fricassees	1	614
+frightened	1	138
+frittering	1	577
+frizzliest	1	644
+frustrated	1	620
+frustrates	1	619
+fulminated	1	321
+funnelling	1	1395
+furbishing	1	624
+furnishing	2	148	623
+generating	1	1436
+generation	1	1437
+germinated	2	628	1364
+germinates	2	627	1365
+ghastliest	1	630
+ghostliest	1	629
+ghostwrite	1	632
+ghostwrote	1	631
+glassiness	1	635
+glittering	1	577
+glossiness	1	633
+gracefully	1	640
+graininess	1	136
+granulated	1	639
+granulates	1	638
+gratefully	1	636
+gravelling	2	645	1385
+gravitated	1	643
+gravitates	1	642
+grizzliest	1	618
+grovelling	1	641
+guaranteed	2	647	648
+guaranteer	2	646	648
+guarantees	3	646	647	649
+guaranties	1	648
+guarantine	1	1051
+habilement	1	652
+habiliment	1	651
+habituated	1	654
+habituates	1	653
+halleluiah	1	656
+hallelujah	1	655
+harmonized	1	658
+harmonizer	1	657
+haughtiest	1	899
+healthiest	1	1461
+heedlessly	1	900
+hitchhiked	2	663	664
+hitchhiker	2	662	664
+hitchhikes	2	662	663
+hoarseness	1	224
+homeliness	1	231
+horseflies	1	670
+hospitable	1	669
+hospitably	1	668
+houseflies	1	667
+humidified	2	672	673
+humidifier	2	671	673
+humidifies	3	671	672	674
+humidities	1	673
+humiliated	1	676
+humiliates	1	675
+hydrolyses	1	678
+hydrolysis	1	677
+hyperbolae	1	680
+hyperbolas	1	679
+iconoclasm	1	682
+iconoclast	1	681
+identified	2	684	685
+identifier	2	683	685
+identifies	3	683	684	686
+identities	1	685
+illiterate	1	56
+illusively	1	59
+imaginable	1	690
+imaginably	1	689
+immanently	1	694
+immigrated	1	693
+immigrates	1	692
+imminently	1	691
+impaneling	1	488
+impanelled	1	489
+impassable	1	698
+impassible	2	697	705
+impeccable	1	700
+impeccably	1	699
+implacable	1	702
+implacably	1	701
+implicated	1	704
+implicates	1	703
+impossible	2	698	706
+impossibly	1	705
+improbable	2	708	709
+improbably	1	707
+improvable	1	707
+improvised	2	711	712
+improviser	3	710	712	713
+improvises	2	710	711
+improvisor	1	711
+inaptitude	1	724
+incitement	1	722
+incredible	1	717
+incredibly	1	716
+incubation	1	801
+inculcated	1	720
+inculpated	1	719
+indirected	1	1417
+inditement	1	715
+indolently	1	760
+ineptitude	1	714
+inevitable	1	726
+inevitably	1	725
+inexorable	1	728
+inexorably	1	727
+infallible	1	730
+infallibly	1	729
+infections	1	753
+infernally	1	789
+inflection	1	736
+inflexible	1	735
+inflexibly	1	734
+infliction	1	733
+influenced	1	738
+influences	1	737
+infuriated	1	740
+infuriates	1	739
+infusorial	1	742
+infusorian	1	741
+inhabiting	1	744
+inhibiting	1	743
+inimitable	1	746
+inimitably	1	745
+initialing	1	750
+initialise	1	749
+initialize	1	748
+initiating	1	747
+initiators	1	752
+initiatory	1	751
+injections	1	731
+insatiable	1	755
+insatiably	1	754
+insensible	1	757
+insensibly	1	756
+insinuated	1	759
+insinuates	1	758
+insolently	1	723
+insolvable	1	1422
+installing	1	765
+instigated	1	764
+instigates	1	763
+instilling	1	762
+instituted	2	767	768
+instituter	2	766	768
+institutes	2	766	767
+intangible	1	770
+intangibly	1	769
+integrated	1	772
+integrates	1	771
+intentions	1	806
+interceded	1	775
+intercedes	1	774
+interfaced	3	777	778	782
+interfacer	2	776	778
+interfaces	3	776	777	783
+interfered	1	780
+interferes	1	779
+interjects	1	792
+interlaced	2	776	783
+interlaces	2	778	782
+interleave	1	797
+interlocks	1	786
+interlocus	1	785
+intermezzi	1	788
+intermezzo	1	787
+internally	1	732
+interposed	1	791
+interposes	1	790
+intersects	1	781
+interstage	1	794
+interstate	1	793
+intervened	1	796
+intervenes	1	795
+interweave	1	784
+inthralled	1	504
+introduced	1	800
+introduces	1	799
+intubation	1	718
+invaluable	1	803
+invaluably	1	802
+invariable	1	805
+invariably	1	804
+inventions	1	773
+invincible	1	808
+invincibly	1	807
+inviolable	1	810
+inviolably	1	809
+inwrapping	2	511	1424
+irrigating	1	814
+irrigation	1	815
+irritating	1	812
+irritation	1	813
+jaggedness	1	1058
+jawbreaker	1	836
+journalism	1	819
+journalist	1	818
+juxtaposed	1	821
+juxtaposes	1	820
+keypunched	1	823
+keypunches	1	822
+knackwurst	1	825
+knockwurst	1	824
+kummerbund	1	325
+lamentable	1	828
+lamentably	1	827
+landscaped	2	830	831
+landscaper	2	829	831
+landscapes	2	829	830
+languished	1	833
+languishes	1	832
+laundryman	1	835
+laundrymen	1	834
+lawbreaker	1	817
+leadership	1	1065
+legislated	1	839
+legislates	1	838
+liberalism	1	848
+likability	1	851
+likelihood	1	852
+likeliness	1	853
+linearized	1	845
+linearizes	1	844
+liquefying	1	847
+liquifying	1	846
+literalism	1	840
+litigating	1	885
+litigation	1	886
+livability	1	841
+livelihood	1	842
+liveliness	2	843	856
+localizing	1	1451
+loneliness	1	856
+loveliness	2	853	855
+loweringly	1	303
+magnetized	1	859
+magnetizes	1	858
+maintained	1	861
+maintainer	1	860
+matchmaker	1	1460
+materially	1	864
+maternally	2	863	949
+maturation	1	1195
+measurable	2	867	873
+measurably	1	866
+mechanized	1	869
+mechanizes	1	868
+medication	2	344	871
+meditation	1	870
+mellowness	1	1480
+mensurable	2	185	866
+mettlesome	1	907
+microcoded	1	876
+microcodes	1	875
+milestones	1	878
+millstones	1	877
+misbehaved	1	880
+misbehaves	1	879
+mismatched	1	882
+mismatches	1	881
+misplacing	1	438
+mistrusted	1	455
+mitigating	1	849
+mitigation	1	850
+modalities	2	891	1245
+modernised	1	889
+modernized	2	888	890
+modernizer	1	889
+moralities	1	887
+mortifying	1	604
+multiplied	2	894	895
+multiplier	2	893	895
+multiplies	2	893	894
+nationally	1	1063
+naturalism	1	898
+naturalist	1	897
+naughtiest	1	659
+needlessly	1	661
+negativism	1	902
+negativist	1	901
+negligible	1	904
+negligibly	1	903
+negotiated	1	906
+negotiates	1	905
+nettlesome	1	874
+neutralism	1	909
+neutralist	1	908
+nitrifying	1	1450
+noblewoman	1	912
+noblewomen	1	911
+nominating	1	459
+nomination	1	460
+normalized	2	596	916
+normalizes	2	597	915
+notational	1	1177
+noticeable	1	919
+noticeably	1	918
+nurseryman	1	921
+nurserymen	1	920
+objections	1	2
+observable	1	924
+observably	1	923
+obstructed	1	926
+obstructer	2	925	927
+obstructor	1	926
+obtainable	1	929
+obtainably	1	928
+occidental	1	15
+ophthalmia	1	932
+ophthalmic	1	931
+oppositely	1	78
+originated	1	935
+originates	1	934
+oscillated	1	937
+oscillates	1	936
+ostensible	1	939
+ostensibly	1	938
+outfitting	1	941
+outwitting	1	940
+overstated	1	943
+overstates	1	942
+parachuted	1	945
+parachutes	1	944
+pardonable	1	947
+pardonably	1	946
+partridges	1	172
+paternally	1	864
+patronized	1	951
+patronizes	1	950
+penetrated	1	953
+penetrates	1	952
+perforated	1	955
+perforates	1	954
+permanence	1	957
+permanency	1	956
+perpetrate	1	959
+perpetuate	1	958
+persecuted	1	961
+persecutes	1	960
+persevered	1	963
+perseveres	1	962
+personally	1	965
+personalty	1	964
+petitioned	1	967
+petitioner	1	966
+phonograph	1	969
+photograph	1	968
+plasticity	1	478
+pleasantly	1	972
+pleasantry	1	971
+plundering	1	134
+populating	1	295
+population	1	296
+postulated	1	977
+postulates	1	976
+precessing	1	1003
+preciously	1	996
+predefined	1	981
+predefines	1	980
+predicated	1	983
+predicates	1	982
+preferable	1	985
+preferably	1	984
+prejudiced	1	987
+prejudices	1	986
+prepending	1	993
+prescribed	1	990
+prescribes	1	989
+presenting	2	992	995
+presetting	1	991
+pretending	1	988
+pretesting	1	1038
+preventing	1	991
+previously	1	979
+principled	1	998
+principles	1	997
+privileged	1	1000
+privileges	1	999
+procedured	1	1002
+procedures	1	1001
+processing	2	978	1008
+procession	1	1009
+processors	1	1010
+proclaimed	1	1007
+proclaimer	1	1006
+professing	1	1003
+profession	1	1004
+professors	1	1005
+profitable	1	1012
+profitably	1	1011
+profiteers	1	1014
+profitters	1	1013
+progressed	1	1016
+progresses	1	1015
+projectile	1	1020
+projecting	1	1034
+projection	1	1035
+projective	2	1017	1036
+projectors	1	1037
+pronounced	1	1023
+pronounces	1	1022
+propagated	1	1025
+propagates	1	1024
+propertied	1	1027
+properties	1	1026
+prophecies	1	1031
+prophesied	2	1030	1031
+prophesier	2	1029	1031
+prophesies	3	1028	1029	1030
+prosecuted	1	1033
+prosecutes	1	1032
+protecting	2	1018	1038
+protection	1	1019
+protective	1	1020
+protectors	2	1021	1039
+protesting	2	994	1034
+protestors	1	1037
+prototyped	1	1041
+prototypes	1	1040
+publicized	1	1043
+publicizes	1	1042
+quadrupled	2	1045	1046
+quadruples	2	1044	1046
+quadruplet	2	1044	1045
+quantified	2	1048	1049
+quantifier	2	1047	1049
+quantifies	3	1047	1048	1050
+quantities	1	1049
+quarantine	1	650
+quarrelled	1	1053
+quarreller	1	1052
+questioned	1	1055
+questioner	1	1054
+quintupled	1	1057
+quintuplet	1	1056
+raggedness	2	816	1178
+railroaded	1	1060
+railroader	1	1059
+randomized	1	1062
+randomizes	1	1061
+rationally	1	896
+reactivate	1	333
+readership	1	837
+realizable	1	1067
+realizably	1	1066
+rearranged	1	1069
+rearranges	1	1068
+reasonable	2	1071	1208
+reasonably	2	1070	1209
+reasonings	1	1211
+reassemble	1	1074
+reassembly	1	1073
+rebellions	1	1076
+rebellious	1	1075
+rebounding	1	1159
+recaptured	1	1079
+recaptures	1	1078
+receivable	1	335
+receptions	1	336
+reclassify	1	341
+recognised	1	1084
+recognized	3	1083	1085	1086
+recognizer	2	1084	1086
+recognizes	2	1084	1085
+recombined	1	1088
+recombines	1	1087
+recompiled	1	1090
+recompiles	1	1089
+recomputed	1	1092
+recomputes	1	1091
+reconciled	2	1094	1095
+reconciler	2	1093	1095
+reconciles	2	1093	1094
+recounting	1	1132
+recreating	1	1165
+redeclared	1	1099
+redeclares	1	1098
+redressing	2	1116	1139
+reductions	1	345
+redundance	1	1103
+redundancy	1	1102
+reelecting	1	1110
+reexamined	1	1106
+reexamines	1	1105
+referenced	3	1108	1109	1167
+referencer	2	1107	1109
+references	2	1107	1108
+reflecting	1	1104
+reflection	1	348
+reflective	1	349
+refraction	1	1163
+refraining	1	1164
+regenerate	1	350
+regressing	2	1100	1139
+reinforced	2	1118	1119
+reinforcer	2	1117	1119
+reinforces	2	1117	1118
+reinstated	1	1121
+reinstates	1	1120
+reiterated	1	1123
+reiterates	1	1122
+relegating	1	354
+relegation	1	355
+relievable	1	120
+relocation	1	1173
+reluctance	1	1129
+reluctancy	1	1128
+remarkable	1	1131
+remarkably	1	1130
+remounting	1	1096
+renouncing	1	363
+reparation	1	1221
+replicated	1	1136
+replicates	1	1135
+reposition	1	376
+repository	1	378
+repressing	3	379	1100	1116
+reprieving	1	1166
+reproached	1	1142
+reproaches	1	1141
+reproduced	2	1144	1145
+reproducer	2	1143	1145
+reproduces	2	1143	1144
+repudiated	1	1147
+repudiates	1	1146
+reputation	1	380
+researched	2	1150	1151
+researcher	2	1149	1151
+researches	2	1149	1150
+reservedly	1	382
+resignedly	1	386
+resilience	1	1155
+resiliency	1	1154
+resistable	1	1157
+resistably	1	1156
+resolution	1	1174
+resounding	1	1077
+restrained	1	1161
+restrainer	1	1160
+retainment	1	390
+retraction	2	400	1113
+retraining	1	1114
+retreating	1	1097
+retrieving	1	1140
+reverenced	1	1107
+reverified	1	1169
+reverifies	1	1168
+revitalize	1	403
+revivalism	1	1172
+revivalist	1	1171
+revocation	1	1127
+revolution	1	1158
+rigorously	1	1445
+risibility	1	1446
+rotational	1	917
+ruggedness	1	1058
+rusticated	1	1180
+rusticates	1	1179
+saccharase	2	1182	1185
+saccharate	1	1181
+saccharide	1	1184
+saccharine	1	1183
+saccharose	1	1181
+sacrificed	2	1187	1188
+sacrificer	2	1186	1188
+sacrifices	2	1186	1187
+salamander	1	151
+saleswoman	1	1191
+saleswomen	1	1190
+sallowness	1	156
+sandwiched	1	1194
+sandwiches	1	1193
+saturation	1	865
+scattering	2	1226	1239
+scepticism	1	1235
+schoolmaam	1	1199
+schoolmarm	1	1198
+scrabbling	2	1201	1204
+scrambling	1	1200
+scrawliest	1	1203
+scrawniest	1	1202
+scribbling	1	1200
+scrubbiest	1	1228
+sculptured	1	1207
+sculptures	1	1206
+seasonable	2	1070	1209
+seasonably	3	1071	1208	1210
+seasonally	1	1209
+seasonings	1	1072
+secularism	1	1213
+secularist	1	1212
+segregated	1	1215
+segregates	1	1214
+selectable	1	351
+sensitized	1	1218
+sensitizer	1	1217
+sensualism	1	1220
+sensualist	1	1219
+separation	1	1134
+separatism	1	1223
+separatist	1	1222
+serialized	1	1225
+serializes	1	1224
+shattering	3	201	1196	1239
+sheltering	1	1336
+shrubbiest	1	1205
+signifying	1	406
+similarily	1	1231
+similarity	1	1230
+simplified	2	1233	1234
+simplifier	2	1232	1234
+simplifies	2	1232	1233
+skepticism	1	1197
+skirmished	2	1237	1238
+skirmisher	2	1236	1238
+skirmishes	2	1236	1237
+smattering	2	1196	1226
+snappiness	1	1241
+snippiness	1	1240
+snivelling	1	1337
+socialized	1	1244
+socializes	1	1243
+sodalities	1	887
+solicitors	1	1247
+solicitous	1	1246
+solidified	1	1249
+solidifies	1	1248
+solubility	1	1452
+spectacled	1	1252
+spectacles	1	1251
+speculated	1	1254
+speculates	1	1253
+sportiness	1	1256
+spottiness	1	1255
+springiest	1	1286
+stabilized	2	1259	1260
+stabilizer	2	1258	1260
+stabilizes	2	1258	1259
+staggering	1	1333
+stationary	1	1263
+stationery	1	1262
+sterilized	2	1265	1266
+sterilizer	2	1264	1266
+sterilizes	2	1264	1265
+stickiness	1	1274
+stimulated	3	1269	1270	1272
+stimulater	3	1268	1270	1271
+stimulates	3	1268	1269	1273
+stimulator	1	1269
+stipulated	2	1268	1273
+stipulates	2	1270	1272
+stockiness	1	1267
+stragglers	1	1279
+straggling	2	1280	1290
+straighten	1	1278
+straighter	1	1277
+stranglers	1	1275
+strangling	1	1276
+stratified	1	1282
+stratifies	1	1281
+strengthed	1	1284
+strengthen	1	1283
+strictures	1	1289
+stringiest	1	1257
+structured	2	1288	1289
+structurer	2	1287	1289
+structures	3	1285	1287	1288
+struggling	1	1276
+subdivided	1	1292
+subdivides	1	1291
+subjection	1	1303
+subletting	1	1304
+submariner	1	1296
+submarines	1	1295
+submerging	1	1298
+submersing	1	1297
+submersion	1	1308
+subscribed	2	1301	1302
+subscriber	2	1300	1302
+subscribes	2	1300	1301
+subsection	1	1293
+subsetting	1	1294
+subsidized	2	1306	1307
+subsidizer	2	1305	1307
+subsidizes	2	1305	1306
+subversion	1	1299
+succulence	1	1310
+succulency	1	1309
+suffocated	1	1312
+suffocates	1	1311
+summarised	1	1314
+summarized	2	1313	1315
+summarizes	1	1314
+superposed	1	1317
+superposes	1	1316
+superseded	1	1319
+supersedes	1	1318
+supervised	1	1321
+supervises	1	1320
+supplanted	1	1323
+supplanter	1	1322
+suppressed	2	1325	1326
+suppressen	2	1324	1326
+suppresses	2	1324	1325
+surrealism	1	1328
+surrealist	1	1327
+surrogated	1	1330
+surrogates	1	1329
+suspicions	1	1332
+suspicious	2	104	1331
+swaggering	1	1261
+sweetbriar	1	1335
+sweetbrier	1	1334
+sweltering	1	1227
+swivelling	1	1242
+symbolized	1	1339
+symbolizes	1	1338
+syndicated	1	1341
+syndicates	1	1340
+tachometer	1	1343
+tachymeter	1	1342
+tantalized	1	1345
+tantalizer	1	1344
+tapestried	1	1347
+tapestries	1	1346
+tarantulae	1	1349
+tarantulas	1	1348
+tastefully	1	1459
+telecasted	1	1352
+telecaster	1	1351
+telegraphs	1	1354
+telegraphy	1	1353
+telephoned	2	1356	1357
+telephoner	2	1355	1357
+telephones	2	1355	1356
+telescoped	1	1359
+telescopes	1	1358
+temporized	1	1361
+temporizer	1	1360
+tenderized	1	1363
+tenderizer	1	1362
+terminated	2	627	1365
+terminates	2	628	1364
+terrorized	2	1367	1368
+terrorizer	2	1366	1368
+terrorizes	2	1366	1367
+timelessly	1	1371
+tincturing	1	211
+tirelessly	1	1369
+titillated	1	1373
+titillater	1	1372
+tonalities	1	1376
+topography	1	1398
+totalities	1	1374
+transience	1	1378
+transiency	1	1377
+translated	1	1380
+translates	1	1379
+transpired	1	1382
+transpires	1	1381
+transposed	1	1384
+transposes	1	1383
+travelling	1	641
+travestied	1	1387
+travesties	1	1386
+trespassed	2	1389	1390
+trespasser	2	1388	1390
+trespasses	2	1388	1389
+trousseaus	1	1392
+trousseaux	1	1391
+truculence	1	1394
+truculency	1	1393
+tunnelling	1	622
+turbulence	1	1397
+turbulency	1	1396
+typography	1	1375
+unattached	1	1400
+unattacked	1	1399
+unbearable	1	1402
+unbeatable	1	1401
+undeniable	1	1404
+undeniably	1	1403
+underlined	2	1406	1408
+underlines	3	1405	1407	1409
+underlings	1	1406
+undermined	2	1405	1409
+undermines	2	1406	1408
+undershirt	1	1411
+underskirt	1	1410
+undertaken	2	1413	1414
+undertaker	2	1412	1414
+undertakes	2	1412	1413
+underwrite	1	1416
+underwrote	1	1415
+undirected	1	721
+unfettered	1	1421
+ungraceful	1	1420
+ungrateful	1	1419
+unlettered	1	1418
+unsolvable	1	761
+untangling	1	503
+unwrapping	2	511	811
+upholsters	1	1426
+upholstery	1	1425
+vacationed	1	1428
+vacationer	1	1427
+validities	1	1435
+vandalized	1	1431
+vandalizes	1	1430
+vanquished	2	1433	1434
+vanquisher	2	1432	1434
+vanquishes	2	1432	1433
+vapidities	1	1429
+venerating	1	625
+veneration	1	626
+ventilated	1	1439
+ventilates	1	1438
+verbalized	1	1441
+verbalizes	1	1440
+victimized	2	1443	1444
+victimizer	2	1442	1444
+victimizes	2	1442	1443
+vigorously	1	1175
+visibility	1	1176
+visualized	2	1448	1449
+visualizer	2	1447	1449
+visualizes	2	1447	1448
+vitrifying	1	910
+vocalizing	1	854
+volubility	1	1250
+vulgarized	1	1454
+vulgarizer	1	1453
+vulnerable	1	1456
+vulnerably	1	1455
+warehoused	1	1458
+warehouses	1	1457
+wastefully	1	1350
+watchmaker	1	862
+wealthiest	1	660
+weathering	1	563
+weatherman	1	1464
+weathermen	1	1463
+wheelhorse	1	1466
+wheelhouse	1	1465
+whimpering	1	1468
+whispering	1	1467
+wholesaled	1	1470
+wholesaler	1	1469
+wildflower	1	1472
+windflower	1	1471
+wintertide	1	1474
+wintertime	1	1473
+workingman	1	1476
+workingmen	1	1475
+worshipped	1	1478
+worshipper	1	1477
+wrinkliest	1	310
+yellowness	1	872

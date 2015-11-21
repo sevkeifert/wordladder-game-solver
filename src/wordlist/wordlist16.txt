@@ -1,0 +1,5 @@
+4
+incomprehensible	1	1
+incomprehensibly	1	0
+incontrovertible	1	3
+incontrovertibly	1	2

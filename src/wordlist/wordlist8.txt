@@ -1,0 +1,3730 @@
+3729
+abducted	1	43
+abductor	1	44
+abetment	1	19
+abjuring	1	47
+ablation	2	5	2187
+ablution	1	4
+aborning	1	7
+aborting	1	6
+abridged	1	9
+abridges	1	8
+abrogate	1	149
+absented	2	12	164
+absentee	1	11
+absolved	1	14
+absolves	1	13
+absorbed	2	16	57
+absorber	1	15
+abstract	1	18
+abstrict	1	17
+abutment	1	2
+accented	1	21
+accepted	2	20	22
+accepter	1	21
+accessed	1	24
+accesses	1	23
+accorded	1	26
+accorder	1	25
+acerbate	1	28
+acervate	1	27
+achieved	2	30	31
+achiever	2	29	31
+achieves	2	29	30
+acquired	1	33
+acquires	1	32
+actinism	1	35
+actinium	1	34
+actuated	1	37
+actuates	1	36
+adapters	2	40	53
+adapting	1	54
+adaptors	1	38
+addicted	1	43
+addition	1	196
+adducted	2	0	41
+adductor	1	1
+adjudged	1	46
+adjudges	1	45
+adjuring	1	3
+adjusted	1	49
+adjuster	2	48	50
+adjustor	1	49
+adjutant	1	52
+adjuvant	1	51
+adopters	1	38
+adopting	1	39
+adorable	1	56
+adorably	1	55
+adsorbed	1	15
+advanced	1	59
+advances	1	58
+advisees	1	61
+advisers	2	60	62
+advisors	2	61	63
+advisory	1	62
+aerating	1	300
+affected	1	1142
+affector	1	1143
+afferent	1	1144
+agitated	1	69
+agitates	1	68
+agonized	1	71
+agonizes	1	70
+airiness	1	3658
+airliner	1	74
+airlines	1	73
+alerting	1	204
+alighted	3	346	1412	2958
+allaying	1	79
+allowing	1	79
+alloying	2	77	78
+alluding	1	81
+alluring	1	80
+altitude	2	133	195
+ambushed	1	84
+ambushes	1	83
+amicable	1	86
+amicably	1	85
+amortise	1	88
+amortize	1	87
+amounted	1	90
+amounter	1	89
+amphorae	1	92
+amphoras	1	91
+analysed	2	94	97
+analyser	2	93	98
+analysis	1	96
+analysts	1	95
+analyzed	3	93	98	99
+analyzer	3	94	97	99
+analyzes	2	97	98
+anchored	1	101
+anchoret	1	100
+aneurism	1	103
+aneurysm	1	102
+animated	2	105	106
+animater	3	104	106	107
+animates	2	104	105
+animator	1	105
+anodized	1	109
+anodizes	1	108
+answered	1	111
+answerer	1	110
+anterior	1	1804
+antiqued	1	114
+antiques	1	113
+apiaries	1	205
+appealed	3	117	118	120
+appealer	2	116	119
+appeared	3	116	119	120
+appearer	2	117	118
+appeased	3	116	118	121
+appeases	1	120
+appended	1	123
+appender	1	122
+appoints	1	182
+apposing	1	2214
+apposite	1	2215
+apprised	2	128	129
+apprises	1	127
+apprized	1	127
+approved	2	131	132
+approver	2	130	132
+approves	2	130	131
+aptitude	2	82	195
+arbalest	1	135
+arbalist	1	134
+arbiters	1	2218
+archived	2	138	139
+archiver	2	137	139
+archives	2	137	138
+arguable	1	141
+arguably	1	140
+arousing	1	1610
+arranged	2	144	145
+arranger	2	143	145
+arranges	2	143	144
+arrested	1	147
+arrester	2	146	148
+arrestor	1	147
+arrogate	1	10
+articled	1	151
+articles	1	150
+asbestos	1	153
+asbestus	1	152
+ascended	1	155
+ascender	1	154
+ascribed	1	157
+ascribes	1	156
+aspiring	1	159
+aspirins	1	158
+assailed	1	161
+assailer	1	160
+assemble	1	163
+assembly	1	162
+assented	3	11	165	166
+assenter	2	164	167
+asserted	3	164	167	174
+asserter	3	165	166	168
+assertor	1	167
+assessed	1	170
+assesses	1	169
+assigned	1	172
+assigner	2	171	173
+assignor	1	172
+assorted	1	166
+assuaged	1	176
+assuages	1	175
+assuming	1	178
+assuring	1	177
+atomized	2	180	181
+atomizer	2	179	181
+atomizes	2	179	180
+atpoints	1	124
+attached	3	184	185	186
+attacher	3	183	185	187
+attaches	2	183	184
+attacked	2	183	187
+attacker	2	184	186
+attained	1	189
+attainer	1	188
+attended	1	191
+attender	1	190
+attested	1	193
+attester	2	192	194
+attestor	1	193
+attitude	2	82	133
+audition	1	42
+auditors	1	198
+auditory	1	197
+autogiro	1	200
+autogyro	1	199
+averaged	1	202
+averages	1	201
+aversion	1	1258
+averting	2	75	1259
+aviaries	1	115
+awakened	1	207
+awakener	1	206
+babbling	5	370	450	868	1528	3569
+backbite	1	211
+backside	1	211
+backsite	2	209	210
+backstay	1	1839
+baffling	2	2500	3572
+baggiest	3	371	456	2749
+bagpiper	1	216
+bagpipes	1	215
+bailable	1	2026
+bailsman	1	219
+bailsmen	1	218
+balanced	3	221	222	3506
+balancer	2	220	222
+balances	2	220	221
+baldness	1	373
+balkiest	3	225	459	3277
+balmiest	2	224	252
+bandaged	1	227
+bandages	1	226
+banderol	1	236
+bandsman	3	230	378	1902
+bandsmen	2	229	1903
+bandying	1	504
+banished	2	233	3516
+banishes	2	232	3518
+banister	1	505
+banneret	1	1907
+bannerol	1	228
+bantered	3	238	259	270
+banterer	2	237	260
+bantling	1	273
+baptisms	1	241
+baptists	1	240
+baptized	1	243
+baptizes	1	242
+barbecue	1	245
+barbeque	1	244
+barberry	1	274
+barbette	1	257
+bareness	3	253	264	2513
+bargeman	1	250
+bargemen	1	249
+baritone	1	261
+barmiest	1	225
+baroness	1	248
+barouche	1	1323
+barraged	1	256
+barrages	1	255
+barrette	1	247
+barriers	1	527
+bartered	3	237	260	270
+barterer	2	238	259
+barytone	1	251
+baseless	1	264
+basement	2	531	1136
+baseness	2	248	262
+bastards	2	266	479
+bastardy	1	265
+bastille	1	2304
+batching	7	392	535	1654	1911	2048	2307	3593
+bathetic	1	2312
+battered	7	237	259	311	483	2052	2313	3292
+battiest	4	537	1336	2142	2521
+battlers	2	394	2522
+battling	5	239	395	2523	3293	3595
+bayberry	1	246
+beaching	3	293	2530	3298
+beadiest	2	1660	2534
+bearable	3	278	280	3601
+bearably	2	277	281
+bearings	2	282	1669
+beatable	3	277	281	1672
+beatably	2	278	280
+beatings	1	279
+beckoned	1	2550
+befitted	1	2570
+beguiled	2	286	287
+beguiler	2	285	287
+beguiles	2	285	286
+beholden	1	289
+beholder	1	288
+behooved	1	291
+behooves	1	290
+belaying	3	298	931	2590
+belching	1	275
+believed	3	295	296	2599
+believer	3	294	296	2600
+believes	3	294	295	2601
+bellowed	3	324	2066	3716
+bellying	3	292	461	1843
+bequests	1	2638
+berating	2	64	387
+bereaved	1	302
+bereaves	1	301
+berrying	1	1354
+berryman	1	1355
+besieged	1	306
+besieger	1	305
+besotted	1	308
+besotter	1	307
+bestride	1	310
+bestrode	1	309
+bettered	4	270	483	1358	1943
+beveling	2	1945	2679
+beverage	1	1948
+bewailed	1	315
+bewailer	1	314
+bickered	1	317
+bickerer	1	316
+bicycled	2	319	320
+bicycler	2	318	320
+bicycles	2	318	319
+billable	2	1369	3340
+billhead	1	460
+billions	1	3726
+billowed	1	297
+bindings	1	1376
+binnacle	1	2341
+bitterer	1	484
+bivalved	1	329
+bivalves	1	328
+blackens	1	2946
+blackest	1	336
+blacking	3	337	354	2947
+blackish	1	399
+blanched	2	335	407
+blanches	2	334	408
+blankest	1	331
+blanking	4	332	350	1394	2345
+blasters	4	351	364	366	2350
+blasting	1	367
+bleached	3	341	342	416
+bleacher	3	340	342	417
+bleaches	3	340	341	418
+bleating	1	352
+bleeding	2	345	425
+blending	2	344	348
+blighted	3	76	1412	2958
+blinders	3	349	359	1415
+blinding	2	345	350
+blinkers	1	347
+blinking	3	337	348	2964
+blisters	2	338	364
+bloating	3	343	357	1421
+blockers	1	635
+blocking	3	332	636	1422
+bloodied	1	356
+bloodier	1	355
+blotting	4	352	638	2356	2971
+bluffing	1	1436
+blunders	2	347	2359
+blunting	1	362
+blurring	2	362	2977
+blurting	2	360	361
+blushing	2	449	1442
+blusters	4	338	351	642	1443
+boarding	1	1687
+boasters	3	338	374	649
+boasting	5	339	382	650	2711	3354
+boatsman	1	369
+boatsmen	1	368
+bobbling	6	208	450	652	1577	1691	3665
+boggiest	5	214	456	1064	1447	3030
+boggling	3	1578	1853	3356
+boldness	2	223	661
+bolsters	1	366
+bombarde	1	376
+bombards	1	375
+bombings	1	672
+bondsman	1	229
+boneless	1	3358
+bookable	1	383
+bookworm	1	1698
+boosting	1	367
+bootable	1	380
+bootlegs	1	385
+bootless	3	384	1454	2718
+booziest	1	3678
+borating	1	300
+borrowed	2	389	475
+borrower	2	388	476
+bossiest	1	2006
+botchers	1	482
+botching	2	268	2171
+bothered	1	2110
+bottlers	1	272
+bottling	1	273
+bouncing	3	397	1856	2385
+bounding	7	396	1483	1706	2387	2724	3041	3689
+bounties	1	779
+brackish	1	333
+bradding	2	401	411
+braiding	4	400	403	404	411
+brainier	2	414	1584
+braining	5	401	404	1088	1585	3385
+braising	4	401	403	447	2390
+brakeman	1	406
+brakemen	1	405
+branched	2	334	408
+branches	3	335	407	448
+brandied	1	410
+brandies	1	409
+branding	2	400	401
+brassier	1	1588
+brawling	2	804	1091
+brawnier	1	402
+braziers	1	1591
+breached	6	340	417	418	422	438	2391
+breacher	5	341	416	418	423	2392
+breaches	6	342	416	417	424	439	2393
+breading	4	420	425	1092	3395
+breaking	3	419	807	1491
+breakout	1	1492
+breathed	4	416	423	424	3694
+breather	3	417	422	424
+breathes	4	418	422	423	3695
+breeding	3	344	419	426
+breezing	2	425	1495
+bridging	2	428	434
+bridling	2	427	435
+brigaded	1	430
+brigades	1	429
+brighten	2	432	1500
+brighter	1	431
+brimming	1	3411
+bringing	4	427	820	1502	3706
+brisling	1	428
+bristled	1	437
+bristles	1	436
+broached	2	416	439
+broaches	3	418	438	442
+bronchos	1	441
+bronchus	1	440
+brooches	1	439
+brothels	1	444
+brothers	1	443
+browning	4	446	832	1115	1512
+browsing	2	445	1117
+bruising	2	404	833
+brunches	2	408	841
+brushing	2	363	846
+bubbling	3	208	370	463
+buckling	2	1120	3217
+budgeted	1	453
+budgeter	1	452
+buffered	2	455	3218
+buffeted	1	454
+buggiest	2	214	371
+builders	1	1619
+bulkhead	1	460
+bulkiest	2	224	3227
+bullhead	2	322	458
+bullying	2	298	3228
+bumblers	2	2118	3427
+bumbling	7	450	1517	1712	1861	2119	2732	3428
+bumpiest	3	1125	1862	2017
+bunching	4	466	2019	2120	2468
+buncoing	1	465
+bundling	1	468
+bungling	2	467	471
+burglars	1	470
+burglary	1	469
+burgling	2	468	1620
+burliest	2	855	3242
+burnable	1	3433
+burnings	1	3434
+burrowed	3	388	476	1522
+burrower	2	389	475
+bushiest	3	865	1621	2738
+business	1	481
+bustards	1	265
+bustling	3	1723	1866	2742
+busyness	1	478
+butchers	1	391
+buttered	5	270	311	484	1623	2130
+butterer	3	327	483	2131
+bypassed	1	486
+bypasses	1	485
+cabotage	1	2744
+cabriole	1	511
+cackling	2	655	3274
+caddying	1	504
+caduceus	1	492
+caducous	1	491
+caesurae	1	494
+caesuras	1	493
+calamine	2	496	497
+calamint	1	495
+calamite	2	495	498
+calamity	1	497
+calendar	1	500
+calender	1	499
+canceled	1	502
+canceler	1	501
+candling	3	504	879	1635
+candying	3	231	490	503
+canister	1	234
+canopied	1	507
+canopies	1	506
+capacity	1	2510
+capitals	1	510
+capitols	1	509
+capriole	1	488
+captions	2	513	538
+captious	2	512	539
+captured	2	515	516
+capturer	2	514	516
+captures	3	514	515	2512
+caressed	2	518	519
+caresser	2	517	519
+caresses	2	517	518
+carolled	1	521
+caroller	1	520
+carousal	1	524
+caroused	2	524	525
+carousel	3	522	523	525
+carouser	2	523	524
+carriage	1	2040
+carriers	1	258
+carrying	4	858	1649	2041	3288
+cascaded	1	530
+cascades	1	529
+casement	2	263	1136
+casually	1	533
+casualty	1	532
+catchers	2	2047	3592
+catching	6	268	1654	1911	2048	2307	3593
+catering	1	3594
+cattiest	4	271	1336	2142	2521
+cautions	2	512	539
+cautious	2	513	538
+cavalier	1	1923
+cemented	2	542	940
+cementer	1	541
+cemetary	1	544
+cemetery	1	543
+censored	1	546
+censured	3	545	547	548
+censurer	2	546	548
+censures	3	546	547	549
+censuses	1	548
+cervices	2	551	2846
+cervixes	1	550
+chaining	1	553
+chairing	1	552
+chammies	1	3612
+chancing	2	557	560
+changers	1	564
+changing	4	555	560	565	604
+chanteys	1	2865
+chanties	1	2866
+chanting	4	555	557	569	572
+chapeaus	2	562	570
+chapeaux	1	561
+chapters	2	568	571
+chargers	3	556	566	568
+charging	3	557	567	569
+charmers	2	564	568
+charming	2	565	569
+charters	4	563	564	566	571
+charting	4	560	565	567	572
+chateaus	1	561
+chatters	3	563	568	2868
+chatting	2	560	569
+cheaters	1	3313
+cheekier	2	576	578
+cheekily	1	577
+cheerier	2	574	578
+cheerily	1	575
+cheesier	2	574	576
+cherries	2	2875	3619
+chickens	1	3314
+chilling	1	2877
+chinners	1	3318
+chinning	1	2884
+chiseled	1	585
+chiseler	1	584
+chloride	2	587	588
+chlorine	2	586	588
+chlorite	2	586	587
+choppers	2	828	2898
+chopping	2	829	2899
+chortled	1	592
+chortler	1	591
+chorused	1	594
+choruses	1	593
+chuckled	2	596	597
+chuckler	2	595	597
+chuckles	2	595	596
+chummier	1	837
+cincture	1	3343
+circuits	1	601
+circuity	1	600
+clambers	1	629
+clamping	3	607	609	641
+clanging	2	557	1393
+clansman	1	606
+clansmen	1	605
+clapping	4	603	609	634	2951
+clashing	4	609	802	1397	2952
+clasping	3	603	607	608
+classier	1	1566
+cleaners	1	619
+cleanest	1	617
+cleaning	3	618	620	1568
+cleansed	2	615	616
+cleanser	2	614	616
+cleanses	2	614	615
+clearest	1	612
+clearing	2	613	620
+cleavers	1	611
+cleaving	2	613	618
+clements	1	1153
+clenched	3	623	624	630
+clencher	3	622	624	631
+clenches	3	622	623	632
+clicking	3	636	640	1411
+climates	1	628
+climaxed	1	628
+climaxes	2	626	627
+climbers	1	602
+clinched	4	622	631	632	1413
+clincher	3	623	630	632
+clinches	4	624	630	631	1414
+clippers	2	1417	2965
+clipping	2	607	2967
+clockers	1	353
+clocking	4	354	625	640	1422
+clothing	1	638
+clotting	4	357	637	2356	2971
+clowning	1	832
+clucking	3	625	636	2357
+clumping	1	603
+clusters	3	364	645	1443
+clutched	1	644
+clutches	2	643	848
+clutters	2	642	1444
+coaching	1	775
+coarsely	1	1689
+coarsest	1	1690
+coasters	1	366
+coasting	3	367	2711	3354
+cobblers	1	1576
+cobbling	4	370	1577	1691	3665
+cockeyed	1	1852
+cockiest	2	766	2713
+cockling	1	489
+coddling	2	849	3355
+codified	3	658	659	2095
+codifier	3	657	659	2096
+codifies	3	657	658	2097
+cohering	2	785	787
+coldness	1	373
+collared	1	663
+collated	2	662	664
+collates	1	663
+collided	1	666
+collides	1	665
+colliers	1	668
+colliery	1	667
+combined	2	670	671
+combiner	2	669	671
+combines	3	669	670	672
+combings	2	377	671
+comelier	2	693	1697
+commando	1	675
+commands	2	674	677
+commence	1	679
+commends	2	675	678
+comments	1	677
+commerce	1	676
+communed	2	681	682
+communes	2	680	684
+commuted	4	680	683	684	698
+commuter	3	682	684	699
+commutes	4	681	682	683	700
+compared	1	686
+compares	1	685
+competed	2	688	698
+competes	2	687	700
+compiled	2	690	691
+compiler	2	689	691
+compiles	2	689	690
+complied	2	693	694
+complier	3	673	692	694
+complies	2	692	693
+composed	2	696	697
+composer	2	695	697
+composes	2	695	696
+computed	4	682	687	699	700
+computer	3	683	698	700
+computes	4	684	688	698	699
+conceded	1	702
+concedes	1	701
+conceits	2	704	707
+concepts	2	703	707
+concerns	1	707
+concerto	1	707
+concerts	5	703	704	705	706	759
+condoled	3	709	710	736
+condoler	3	708	711	737
+condoned	3	708	711	712
+condoner	3	709	710	712
+condones	2	710	711
+confided	3	714	715	716
+confider	4	713	715	717	735
+confides	3	713	714	718
+confined	3	713	717	718
+confiner	3	714	716	718
+confines	3	715	716	717
+confirms	1	720
+conforms	1	719
+confused	4	722	723	724	753
+confuser	2	721	723
+confuses	2	721	722
+confuted	1	721
+conjured	2	726	727
+conjurer	3	725	727	728
+conjures	2	725	726
+conjuror	1	726
+connived	2	730	731
+conniver	2	729	731
+connives	2	729	730
+connoted	1	733
+connotes	1	732
+consents	2	744	756
+consider	1	714
+consoled	3	708	737	738
+consoler	3	709	736	738
+consoles	2	736	737
+consorts	1	748
+consumed	2	741	742
+consumer	2	740	742
+consumes	2	740	741
+contends	1	744
+contents	5	734	743	745	746	756
+contests	2	744	746
+contexts	2	744	745
+contorta	1	748
+contorts	2	739	747
+contract	1	750
+contrast	1	749
+contrite	1	752
+contrive	1	751
+contused	1	721
+convened	2	755	760
+convenes	2	754	756
+convents	4	734	744	755	759
+converge	1	758
+converse	1	757
+converts	2	707	756
+conveyed	3	754	761	763
+conveyer	1	760
+convoked	1	763
+convoyed	2	760	762
+copulate	1	2376
+cordless	1	3681
+corkiest	2	654	767
+corniest	2	766	1700
+coroners	1	769
+coronets	1	768
+costumed	2	771	772
+costumer	2	770	772
+costumes	2	770	771
+cottager	1	774
+cottages	1	773
+couching	5	646	776	1072	3369	3567
+coughing	2	775	2722
+counters	2	778	783
+countess	1	777
+counties	1	398
+counting	2	784	2113
+couriers	1	783
+coursing	1	784
+courters	2	777	781
+courting	2	780	782
+covering	4	660	786	787	1708
+coveting	1	785
+cowering	5	660	785	2011	2389	3374
+crabbier	1	1579
+crackers	1	3375
+cracking	2	798	3376
+crackled	1	792
+crackles	1	791
+cradling	1	804
+craftier	1	1082
+craftily	1	1083
+crafting	2	1084	1583
+craggier	1	1085
+cranking	2	790	1487
+crannied	1	800
+crannies	2	799	1586
+crashers	1	845
+crashing	2	608	846
+crawfish	1	805
+crawling	3	413	793	1091
+crayfish	1	803
+creakier	2	810	1490
+creaking	5	420	811	812	826	1491
+creamers	2	809	1093
+creamery	1	808
+creamier	2	806	1094
+creaming	3	807	812	1096
+creasing	3	807	811	1592
+credible	1	814
+credibly	1	813
+cremated	1	816
+cremates	1	815
+creviced	1	818
+crevices	1	817
+crimpier	1	825
+cringing	3	434	1502	3706
+crinkled	1	3707
+crippled	2	823	824
+crippler	2	822	824
+cripples	2	822	823
+crispier	1	819
+croaking	2	807	827
+crooking	1	826
+croppers	2	589	1111
+cropping	2	590	1112
+crossing	1	1606
+crowding	1	832
+crowning	5	445	639	831	1115	1512
+cruising	1	447
+crumbier	1	837
+crumbled	3	836	838	1615
+crumbles	3	835	839	1617
+crummier	2	598	834
+crumpled	2	835	839
+crumples	2	836	838
+crunched	1	841
+crunches	3	448	840	848
+crusaded	2	843	844
+crusader	2	842	844
+crusades	2	842	843
+crushers	1	801
+crushing	2	449	802
+crustier	1	3422
+crutches	2	644	841
+cuddling	6	656	854	1513	1709	2114	2466
+culpable	1	851
+culpably	1	850
+cultured	1	853
+cultures	2	852	3568
+curdling	2	849	1718
+curliest	3	472	864	3242
+currants	1	857
+currents	1	856
+currying	2	528	1720
+cursedly	1	866
+curtails	1	861
+curtains	1	860
+curtsied	1	863
+curtsies	1	862
+curviest	1	855
+cushiest	3	477	1621	2738
+cussedly	1	859
+cuteness	1	2129
+dabbling	3	208	1528	3569
+dahabeah	1	870
+dahabiah	1	869
+daintier	1	872
+dainties	1	871
+dalesman	2	2751	3275
+daliance	1	3507
+dallying	3	2502	2753	3278
+damnable	1	877
+damnably	1	876
+dandiest	3	1634	2507	2762
+dandling	4	503	880	884	1635
+dangling	6	879	1538	1841	2033	3284	3578
+dankness	3	882	1906	2509
+darkness	1	881
+daughter	1	1919
+dawdling	1	879
+deadline	1	1663
+deadlock	1	1664
+deadness	2	888	889
+deafness	2	887	889
+dearness	3	887	888	2143
+debasing	1	891
+debating	2	890	2540
+decagram	1	901
+decaying	2	910	931
+deceased	1	895
+deceases	1	894
+deceived	3	897	898	2543
+deceiver	3	896	898	2544
+deceives	3	896	897	2545
+decently	1	2546
+deciding	2	909	962
+decigram	1	892
+deckhand	1	1063
+declared	2	904	905
+declarer	2	903	905
+declares	2	903	904
+declined	3	907	908	2552
+decliner	2	906	908
+declines	2	906	907
+decoding	2	900	2553
+decrying	1	893
+dedicate	2	933	2063
+deducing	2	2563	2836
+defacing	2	914	2566
+defaming	1	913
+defeated	2	916	924
+defected	3	915	930	981
+defences	1	920
+defended	2	919	948
+defender	1	918
+defenses	1	917
+defiance	1	984
+defiling	2	923	988
+defining	2	922	2569
+deflated	1	915
+deformed	1	2572
+degraded	2	927	928
+degrader	2	926	928
+degrades	2	926	927
+deigning	2	1348	2580
+dejected	3	916	981	2581
+delaying	3	292	893	2590
+delegate	1	2593
+delicate	2	911	3529
+delivers	1	935
+delivery	1	934
+deluding	2	937	947
+deluging	1	936
+demanded	1	939
+demander	1	938
+demented	1	541
+demising	1	989
+demoting	2	944	991
+demotion	1	992
+denoting	2	942	991
+denounce	1	2614
+dentally	1	2068
+denuding	1	936
+depended	1	918
+depleted	1	950
+depletes	1	949
+deplored	2	952	953
+deplores	1	951
+deployed	1	951
+deposing	1	2631
+depraved	1	956
+deprived	2	955	957
+deprives	1	956
+deputing	1	2637
+dequeued	2	960	2639
+dequeues	1	959
+derailed	1	978
+deriding	2	900	963
+deriving	1	962
+descends	1	965
+descents	1	964
+deserted	2	967	968
+deserter	1	966
+deserved	3	966	969	2643
+deserves	2	968	2645
+designed	2	971	2648
+designer	1	970
+despatch	1	1029
+despised	1	974
+despises	1	973
+detached	2	976	977
+detacher	2	975	977
+detaches	2	975	976
+detailed	2	961	979
+detained	3	978	980	2664
+detainer	2	979	2665
+detected	3	916	930	982
+detested	2	981	2668
+detracts	1	2673
+deviance	2	921	985
+deviancy	1	984
+deviated	1	987
+deviates	1	986
+deviling	3	922	989	2694
+devising	3	941	988	2695
+devolved	1	2699
+devoting	2	942	944
+devotion	1	943
+devoured	1	994
+devourer	1	993
+diaconal	1	996
+diagonal	1	995
+dialyzed	1	998
+dialyzer	1	997
+dictated	1	1000
+dictates	1	999
+diddling	4	1360	2071	2335	2706
+diereses	1	1003
+dieresis	1	1002
+differed	2	1005	1006
+differen	2	1004	1006
+differer	2	1004	1005
+diffused	2	1008	1009
+diffuser	2	1007	1009
+diffuses	2	1007	1008
+digested	1	1054
+dilating	1	1012
+diluting	1	1011
+diluvial	1	1014
+diluvian	1	1013
+dimpling	2	1126	3648
+dingiest	2	1017	1127
+dinkiest	2	1016	1882
+dipstick	1	1976
+disabled	2	1020	1021
+disabler	2	1019	1021
+disables	2	1019	1020
+discount	3	1028	2081	3558
+diseased	1	1024
+diseases	1	1023
+disliked	1	1026
+dislikes	1	1025
+dismally	1	1043
+dismount	1	1022
+dispatch	1	972
+dispense	1	1031
+disperse	1	1030
+displace	1	2082
+disposed	2	1034	1035
+disposer	2	1033	1035
+disposes	2	1033	1034
+disputed	2	1037	1038
+disputer	2	1036	1038
+disputes	2	1036	1037
+disrobed	1	1040
+disrober	1	1039
+dissects	1	1042
+dissents	1	1041
+distally	1	1027
+distract	2	1045	1047
+distrait	1	1044
+distress	1	2085
+district	1	1044
+distrust	1	2086
+disunite	1	1050
+disunity	1	1049
+diverged	2	1052	1053
+diverges	1	1051
+diverted	2	1051	1054
+divested	2	1010	1053
+dividing	1	1056
+divining	1	1055
+divorced	2	1058	1059
+divorcee	2	1057	1059
+divorces	2	1057	1058
+divulged	2	1061	1062
+divulger	2	1060	1062
+divulges	2	1060	1061
+dockhand	1	902
+doggiest	3	371	1447	3030
+dominate	1	2164
+donation	1	3728
+doublers	2	1068	1070
+doublets	1	1067
+doubling	1	1071
+doubters	1	1067
+doubting	1	1069
+douching	3	775	3369	3567
+dourness	1	3042
+dowdiest	2	1077	2727
+doweling	1	3372
+dowelled	1	3373
+downiest	1	1074
+drachmae	2	1079	1080
+drachmai	2	1078	1080
+drachmas	2	1078	1079
+drafters	1	1105
+draftier	1	794
+draftily	1	795
+drafting	3	796	1106	1583
+draggier	2	797	1100
+dragoman	1	1087
+dragomen	1	1086
+draining	3	403	1585	3385
+draughts	2	1090	1114
+draughty	1	1089
+drawling	2	413	804
+dreading	3	419	1096	3395
+dreamers	1	808
+dreamier	2	810	1097
+dreamily	1	1098
+dreaming	2	811	1092
+drearier	1	1094
+drearily	1	1095
+dredging	1	1118
+dreggier	1	1085
+drenched	2	1102	3696
+drenches	3	1101	3402	3697
+dressier	1	1113
+dressing	1	2411
+drifters	1	1081
+drifting	1	1084
+drilling	2	1501	1596
+dripping	2	1112	1602
+drizzled	2	1505	1603
+drooping	1	1112
+droppers	1	828
+dropping	3	829	1108	1110
+drossier	2	1103	1116
+droughts	1	1089
+drowning	4	445	832	1117	1512
+drowsier	1	1113
+drowsing	2	446	1115
+drudging	3	1099	1614	3420
+duckiest	2	1128	2014
+duckling	2	451	3217
+ductless	1	1130
+duelling	3	1131	1514	2485
+dullness	1	1516
+dumbness	1	2180
+dumpiest	3	464	1862	2017
+dumpling	2	1015	2733
+dungiest	1	1016
+duskiest	3	1119	1129	1722
+dustiest	5	1128	1527	1622	2021	2739
+dustless	2	1121	2741
+dwelling	2	1122	3257
+dwindled	2	1133	3260
+dwindles	1	1132
+earnings	2	1135	3585
+earrings	1	1134
+easement	2	263	531
+easterly	1	2046
+eclipsed	1	1139
+eclipses	2	1138	1158
+educated	1	1141
+educates	1	1140
+effected	1	65
+effector	1	66
+efferent	1	67
+eighthes	1	1146
+eighties	1	1145
+ejecting	2	1149	1243
+ejection	2	1150	1244
+electing	2	1147	1243
+election	3	1148	1152	1244
+electors	1	1245
+electron	1	1150
+elements	1	621
+elevated	1	1155
+elevates	1	1154
+eligible	1	1157
+eligibly	1	1156
+ellipses	2	1139	1159
+ellipsis	1	1158
+emanated	1	1161
+emanates	1	1160
+embalmed	1	1163
+embalmer	1	1162
+embodied	1	1165
+embodies	1	1164
+embraced	1	1167
+embraces	1	1166
+employee	1	1169
+employer	1	1168
+empyreal	1	1171
+empyrean	1	1170
+emulated	1	1173
+emulates	1	1172
+enacting	1	1260
+enameled	1	1176
+enameler	1	1175
+encasing	1	1756
+enclaves	1	1221
+enclosed	3	1180	1763	3452
+encloses	2	1179	1764
+encumber	1	1769
+endorsed	3	1183	1184	1774
+endorser	2	1182	1184
+endorses	2	1182	1183
+enduring	1	1225
+enfolded	2	1187	3459
+enfolder	1	1186
+enforced	2	1189	1190
+enforcer	2	1188	1190
+enforces	2	1188	1189
+engaging	1	1215
+engorged	1	1193
+engorges	1	1192
+engraved	2	1195	1196
+engraver	2	1194	1196
+engraves	2	1194	1195
+enhanced	2	1198	1199
+enhancer	2	1197	1199
+enhances	2	1197	1198
+enlacing	1	3465
+enlarged	2	1202	1203
+enlarger	2	1201	1203
+enlarges	2	1201	1202
+enlisted	1	1205
+enlistee	1	1204
+enmities	1	1231
+ennobled	2	1208	1209
+ennobler	2	1207	1209
+ennobles	2	1207	1208
+enqueued	1	1211
+enqueues	1	1210
+enquired	3	1213	1214	1792
+enquirer	3	1212	1214	1793
+enquires	4	1212	1213	1253	1794
+enraging	1	1191
+enriched	1	1217
+enriches	1	1216
+enrolled	1	3476
+enslaved	2	1220	1221
+enslaver	2	1219	1221
+enslaves	3	1178	1219	1220
+ensnared	2	1223	1796
+ensnares	1	1222
+ensurers	1	1802
+ensuring	2	1185	1803
+entangle	1	3483
+enthrall	2	1228	1813
+enthrals	1	1227
+entirely	1	1230
+entirety	1	1229
+entities	2	1206	1233
+entitled	3	1233	1814	3485
+entitles	2	1231	1232
+entrench	1	1815
+entwined	2	1236	3486
+entwines	1	1235
+envelope	1	1238
+envelops	1	1237
+enviable	1	1240
+enviably	1	1239
+equaling	1	1242
+equating	1	1241
+erecting	2	1147	1149
+erection	2	1148	1150
+erectors	1	1151
+escalade	1	1247
+escapade	1	1246
+escapism	1	1249
+escapist	1	1248
+espoused	2	1251	1252
+espouser	2	1250	1252
+espouses	2	1250	1251
+esquires	1	1214
+ethereal	1	1255
+etherial	1	1254
+evacuate	1	1257
+evaluate	1	1256
+eversion	1	203
+everting	2	204	1278
+exacting	2	1174	1261
+exalting	2	1260	1304
+examined	3	1263	1264	1265
+examinee	3	1262	1264	1265
+examiner	3	1262	1263	1265
+examines	3	1262	1263	1264
+excising	2	1267	1272
+exciting	1	1266
+excluded	1	1269
+excludes	1	1268
+excreted	1	1271
+excretes	1	1270
+excusing	1	1266
+executed	1	1274
+executes	1	1273
+exegeses	1	1276
+exegesis	1	1275
+exercise	1	1282
+exerting	1	1259
+exhorted	2	1294	1300
+exigence	1	1281
+exigency	1	1280
+exorcise	2	1277	1283
+exorcize	1	1282
+expanded	2	1285	1287
+expander	1	1284
+expanses	1	1288
+expended	2	1284	1298
+expenses	1	1286
+exploded	2	1290	1291
+explodes	2	1289	1293
+explored	3	1289	1292	1293
+explorer	2	1291	1293
+explores	3	1290	1291	1292
+exported	3	1279	1295	1300
+exporter	2	1294	1301
+expunged	1	1297
+expunges	1	1296
+extended	2	1287	1299
+extender	1	1298
+extorted	3	1279	1294	1301
+extorter	2	1295	1300
+extruded	1	1303
+extrudes	1	1302
+exulting	1	1261
+fabulous	1	2745
+faceless	1	1309
+factions	2	1308	1359
+factious	1	1307
+fadeless	1	1306
+failings	2	1312	2027
+fainting	1	2285
+fairings	2	1310	2286
+falconer	1	1314
+falconet	1	1313
+fallback	1	1515
+fallible	1	1317
+fallibly	1	1316
+faltered	1	1371
+familial	1	1320
+familiar	1	1319
+farmhand	1	1322
+farmland	1	1321
+farouche	1	254
+farthest	1	1523
+fastened	3	1326	1334	1652
+fastener	2	1325	1335
+fastness	2	2305	3527
+fatalism	1	1329
+fatalist	1	1328
+fatality	1	2139
+fathered	1	1549
+fatigued	1	1333
+fatigues	1	1332
+fattened	2	1325	1335
+fattener	2	1326	1334
+fattiest	4	271	537	2142	2521
+faulting	1	3528
+favoring	1	2770
+fconvert	4	1554	1658	1726	1925
+feasible	1	1341
+feasibly	1	1340
+feathers	3	1674	1932	3603
+featured	1	1344
+features	1	1343
+feckless	1	2549
+feedings	2	1347	2838
+feelings	1	1346
+feigning	2	929	2580
+felicity	1	1679
+feminine	1	1351
+feminize	1	1350
+ferreted	1	1353
+ferreter	1	1352
+ferrying	1	303
+ferryman	2	304	1356
+ferrymen	1	1355
+festered	2	1358	1481
+fettered	3	311	1357	1943
+fictions	1	1307
+fiddling	5	1001	1513	2071	2335	2706
+fielding	2	3641	3720
+fiercest	1	1363
+fieriest	1	1362
+fighters	1	1962
+fighting	3	1964	2708	2921
+figments	1	2336
+figurine	1	1368
+figuring	1	1367
+fillable	2	321	3340
+fillings	1	1876
+filtered	1	1318
+finagled	1	1373
+finagler	1	1372
+financed	1	1375
+finances	1	1374
+findings	1	325
+fineries	1	3653
+fingered	1	1973
+finished	2	1380	1381
+finisher	2	1379	1381
+finishes	2	1379	1380
+firearms	1	1459
+firework	1	3656
+fissured	1	1385
+fissures	1	1384
+fistulae	1	1387
+fistulas	1	1386
+fittings	1	2933
+fixtures	1	2090
+fizzling	1	2936
+flagrant	1	1486
+flakiest	1	1439
+flanging	3	604	1394	1416
+flanking	4	337	1393	1487	2345
+flappers	1	1417
+flashier	1	1406
+flashing	4	608	1407	1442	2952
+flattens	1	1399
+flatters	5	1398	1400	1419	1444	2351
+flattery	2	1399	1445
+flatting	1	1420
+flecking	2	1411	1422
+fledging	1	2954
+fleecing	1	1405
+fleeting	1	1404
+fleshier	1	1396
+fleshing	2	1397	1442
+flexible	1	1409
+flexibly	1	1408
+flickers	1	2957
+flicking	3	625	1402	1422
+flighted	3	76	346	2958
+flinched	2	630	1414
+flinches	2	632	1413
+flinders	1	347
+flinging	3	1393	1502	2963
+flippers	3	633	1395	2965
+flirting	1	1420
+flitters	4	1399	1444	1503	1571
+flitting	2	1401	1418
+floating	1	352
+flocking	5	354	636	1402	1411	1507
+flooding	1	1424
+flooring	1	1423
+floppier	2	1426	2968
+floppies	1	1425
+floppily	1	2969
+flopping	1	2970
+flossier	1	1574
+flossing	1	1575
+flounced	1	1432
+flounces	1	1431
+flowered	2	1434	1435
+flowerer	2	1433	1435
+floweret	2	1433	1434
+fluffing	1	358
+fluidify	1	1438
+fluidity	1	1437
+flukiest	1	1392
+flurried	1	1441
+flurries	1	1440
+flushing	3	363	1397	1407
+flusters	3	364	642	1444
+flutters	5	645	1399	1419	1443	1445
+fluttery	2	1400	1444
+foamless	1	1478
+foggiest	3	371	1064	3030
+foisting	1	1693
+followed	2	1450	1694
+follower	1	1449
+foodless	1	1454
+football	1	1453
+footfall	1	1452
+footless	3	385	1451	2718
+foraging	1	1456
+foraying	1	1455
+forcible	1	1458
+forcibly	1	1457
+forearms	1	1382
+forecast	1	1465
+forehand	1	1464
+foreknew	1	1463
+foreknow	1	1462
+foreland	1	1461
+foremast	2	1460	1466
+foremost	1	1465
+foresaid	1	1468
+foresail	1	1467
+foreseen	1	1470
+foresees	1	1469
+forestay	1	1474
+forested	1	1473
+forester	1	1472
+forestry	1	1471
+forgiver	1	1476
+forgives	1	1475
+formally	1	2167
+formless	1	1446
+forswore	1	1480
+forsworn	1	1479
+fostered	1	1357
+founders	1	2386
+founding	6	397	1706	2387	2724	3041	3689
+fountain	1	2112
+fraction	2	1498	3377
+fragrant	1	1391
+franking	2	798	1394
+frazzled	2	1489	1505
+frazzles	2	1488	1506
+freakier	1	806
+freaking	2	420	807
+freakout	1	421
+freckled	1	1494
+freckles	1	1493
+freezing	2	426	1499
+frenzied	1	1497
+frenzies	1	1496
+friction	1	1485
+friezing	2	1495	1504
+frighten	1	431
+frilling	2	1107	1596
+fringing	4	434	820	1416	3706
+fritters	1	1419
+frizzing	1	1499
+frizzled	4	1109	1488	1506	1603
+frizzles	2	1489	1505
+frocking	1	1422
+frontier	1	1510
+fronting	1	1511
+frostier	1	1508
+frosting	1	1509
+frowning	3	445	832	1115
+fuddling	5	849	1360	1709	2114	2466
+fuelling	2	1122	2485
+fullback	1	1315
+fullness	1	1123
+fumbling	6	463	1712	1861	2119	2732	3428
+function	1	1863
+funkiest	2	1521	1865
+funneled	1	3431
+funniest	3	1519	2734	3231
+furrowed	1	475
+furthest	1	1324
+fusileer	1	1525
+fusilier	1	1524
+fussiest	1	1527
+fustiest	5	1129	1526	1622	2021	2739
+gabbling	6	208	868	1535	1540	1577	3569
+gaieties	1	1553
+galleass	1	1532
+galliard	1	1627
+galliass	1	1530
+galloped	1	1534
+galloper	2	1533	3574
+gambling	3	1528	1540	2503
+gameness	4	1537	1899	2759	3279
+gaminess	1	1536
+gangling	6	880	1543	1841	2033	3284	3578
+gantries	1	2291
+garbling	5	1528	1535	1543	2036	3579
+gardened	2	1542	1643
+gardener	2	1541	1644
+gargling	3	1538	1540	1620
+garroted	1	1545
+garroter	1	1544
+gasolene	1	1547
+gasoline	1	1546
+gassiest	1	2765
+gathered	2	1331	1550
+gatherer	1	1549
+gaudiest	1	1552
+gauziest	1	1551
+gayeties	1	1529
+gconvert	4	1339	1658	1726	1925
+generate	1	3532
+genially	1	3533
+genitive	1	1942
+gestated	1	2657
+gestured	2	1560	1561
+gesturer	2	1559	1561
+gestures	2	1559	1560
+giggling	4	1578	1846	2160	3643
+gladiola	1	1564
+gladioli	1	1563
+glanders	1	2949
+glassier	3	610	1574	1588
+gleaming	2	1568	1573
+gleaning	2	613	1567
+glimpsed	1	1570
+glimpses	1	1569
+glitters	2	1419	1572
+glittery	1	1571
+gloaming	1	1567
+glossier	2	1429	1566
+glossing	2	1430	1606
+gobblers	1	651
+gobbling	5	370	652	1528	1691	3665
+goggling	4	372	1562	1853	3356
+grabbier	2	788	1613
+gradings	1	1589
+graffiti	1	1582
+graffito	1	1581
+grafting	3	796	1084	1587
+grainier	1	402
+graining	3	403	1088	3385
+grannies	1	800
+granting	2	1583	1618
+grassier	2	412	1566
+gratings	1	1580
+graveled	2	1611	3393
+graziers	1	415
+greasing	1	812
+greening	1	1594
+greeting	1	1593
+gridding	1	1600
+grilling	2	1107	1501
+grimiest	1	1598
+grimmest	2	1597	3410
+grimness	1	3412
+grinding	2	1595	1601
+grinning	1	1600
+gripping	1	1108
+grizzled	2	1109	1505
+grooming	1	1605
+grooving	1	1604
+grossing	3	830	1575	1610
+grounded	1	1608
+grounder	1	1607
+grouping	2	1610	3416
+grousing	3	142	1606	1609
+groveled	1	1590
+growling	1	2465
+grubbier	1	1579
+grudging	2	1118	3420
+grumbled	3	835	1616	1617
+grumbler	2	1615	1617
+grumbles	3	836	1615	1616
+grunting	1	1587
+guilders	1	457
+gurgling	2	471	1543
+gushiest	4	477	865	1622	2738
+gustiest	5	1129	1527	1621	2021	2739
+guttered	2	483	2130
+guzzling	2	2184	2478
+haggling	1	3573
+haleness	2	2028	2289
+halliard	1	1531
+hallooed	1	1629
+hallowed	3	1628	1694	3575
+hammered	1	1631
+hampered	3	1630	2290	3280
+handball	2	1633	1642
+handbill	1	1632
+handiest	4	878	1645	2507	2762
+handling	2	503	879
+handouts	1	1637
+hangouts	1	1636
+happiest	1	2764
+harassed	1	1640
+harasses	1	1639
+hardback	1	1647
+hardball	1	1632
+hardened	2	1541	1644
+hardener	2	1542	1643
+hardiest	2	1634	3287
+hardship	1	3581
+hardtack	1	1641
+harrowed	1	2134
+harrying	4	528	1720	2041	3288
+haspling	1	1651
+hassling	2	1650	2517
+hastened	1	1325
+hastiest	2	2138	3290
+hatching	7	268	535	1686	1911	2048	2307	3593
+haunches	1	1922
+haunting	1	3296
+haziness	1	1924
+hconvert	4	1339	1554	1726	1925
+headband	1	1662
+headiest	4	276	1665	1675	2534
+headings	3	1669	1926	2535
+headland	1	1659
+headline	1	885
+headlock	1	886
+headrest	1	1660
+headsman	1	1680
+headword	1	1668
+headwork	1	1667
+hearings	3	279	1661	1682
+heartier	1	1671
+hearties	1	1670
+heatable	1	280
+heathens	1	1674
+heathers	4	1342	1673	1932	3603
+heaviest	1	1660
+hedgehog	1	1677
+hedgehop	1	1676
+heedless	1	2149
+helicity	1	1349
+herdsman	2	1666	1681
+herdsmen	1	1680
+herrings	1	1669
+hijacked	1	1684
+hijacker	1	1683
+hilliest	1	2928
+hitching	4	1654	1883	2343	3663
+hoarding	1	365
+hoariest	1	1690
+hoarsely	1	647
+hoarsest	2	648	1688
+hobbling	4	370	652	1577	3665
+hobbyist	1	1991
+hoisting	1	1448
+hollowed	2	1449	1629
+homebody	1	3038
+homeless	1	1699
+homelier	1	673
+hookworm	1	381
+hopeless	1	1696
+horniest	2	767	1705
+horrible	1	1702
+horribly	2	1701	1703
+horridly	3	1702	1719	3361
+horsefly	1	1707
+horsiest	1	1700
+hounding	6	397	1483	2387	2724	3041	3689
+housefly	1	1704
+hovering	1	785
+huddling	5	849	1513	1718	2114	2466
+humanism	1	1711
+humanist	1	1710
+humbling	6	463	1517	1861	2119	2732	3428
+humidify	1	1714
+humidity	3	1713	1715	3429
+humility	1	1714
+huntsman	1	1717
+huntsmen	1	1716
+hurdling	3	854	1709	1721
+hurridly	1	1703
+hurrying	2	858	1649
+hurtling	2	1718	1723
+huskiest	1	1128
+hustling	4	480	1721	1866	2742
+hypnoses	1	1725
+hypnosis	1	1724
+iconvert	4	1339	1554	1658	1925
+idealism	1	1728
+idealist	1	1727
+identify	1	1730
+identity	1	1729
+idolised	1	1732
+idolized	1	1731
+imagined	1	1734
+imagines	1	1733
+imitated	1	1736
+imitates	1	1735
+immanent	1	1740
+immersed	1	1739
+immerses	1	1738
+imminent	1	1737
+immunity	1	1754
+impacted	1	1743
+imparted	2	1742	1748
+impinged	1	1745
+impinges	1	1744
+imploded	1	1747
+implored	1	1746
+imported	2	1743	1749
+importer	2	1748	1750
+imposter	2	1749	1751
+impostor	1	1750
+improved	1	1753
+improves	1	1752
+impunity	2	1741	1755
+impurity	1	1754
+incasing	2	1177	1759
+incensed	1	1758
+incenses	1	1757
+incising	2	1756	1760
+inciting	3	1759	1772	1824
+inclined	1	1762
+inclines	1	1761
+inclosed	3	1179	1764	3452
+incloses	2	1180	1763
+included	1	1766
+includes	1	1765
+incoming	1	2209
+incubate	1	1819
+incumber	1	1181
+indebted	1	1771
+indented	2	1770	1820
+inditing	2	1760	1824
+indolent	1	1797
+indorsed	1	1182
+indulged	1	1776
+indulger	1	1775
+infected	2	1780	1790
+inferior	1	1804
+infernal	1	1807
+infested	2	1777	1823
+infinite	1	1782
+infinity	1	1781
+inflamed	1	1784
+inflated	2	1783	1785
+inflates	1	1784
+informed	2	1787	3460
+informer	1	1786
+inhabits	1	1789
+inhibits	1	1788
+injected	1	1777
+injuring	1	1803
+inquired	3	1212	1793	1794
+inquirer	3	1213	1792	1794
+inquires	3	1214	1792	1793
+inserted	1	1821
+insnared	1	1222
+insolent	1	1773
+inspired	2	1799	1800
+inspirer	2	1798	1800
+inspires	2	1798	1799
+instated	1	3482
+insurers	1	1224
+insuring	2	1225	1791
+interior	2	112	1778
+intermit	1	1806
+intermix	1	1805
+internal	2	1779	1812
+interned	3	1809	1810	1811
+internee	2	1808	1810
+internet	2	1808	1809
+interred	1	1808
+interval	1	1807
+inthrall	1	1227
+intitled	2	1232	3485
+intrench	1	1234
+intruded	2	1817	1818
+intruder	2	1816	1818
+intrudes	2	1816	1817
+intubate	1	1768
+invented	3	1771	1821	1823
+inverted	4	1795	1820	1822	1823
+inverter	1	1821
+invested	3	1780	1820	1821
+inviting	2	1760	1772
+invoiced	2	1826	3489
+invoices	1	1825
+involved	1	1828
+involves	1	1827
+iodizing	1	1830
+ionizing	1	1829
+irrigate	1	1832
+irritate	1	1831
+isolated	1	1834
+isolates	1	1833
+itemized	1	1836
+itemizes	1	1835
+iterated	1	1838
+iterates	1	1837
+jackstay	1	212
+jaggedly	1	2501
+jangling	6	880	1538	1847	2033	3284	3578
+jawboned	1	2529
+jellying	2	298	1854
+jewelled	1	1845
+jeweller	1	1844
+jiggling	6	1562	1847	1853	1860	2160	3643
+jingling	5	1841	1846	2077	2931	3346
+jingoism	1	1849
+jingoist	1	1848
+jiujitsu	1	1851
+jiujutsu	1	1850
+jockeyed	1	653
+joggling	5	372	1578	1846	1860	3356
+jollying	1	1843
+jostling	1	1866
+jouncing	2	396	2385
+journeys	1	3371
+jugglers	1	1859
+jugglery	1	1858
+juggling	2	1846	1853
+jumbling	6	463	1517	1712	2119	2732	3428
+jumpiest	3	464	1125	2017
+junction	1	1518
+juncture	1	2469
+junkiest	1	1519
+justling	4	480	1723	1855	2742
+kazatski	1	1868
+kazatsky	1	1867
+kerosene	1	1870
+kerosine	1	1869
+keynoted	1	1872
+keynoter	1	1871
+kickiest	1	1882
+kielbasa	1	1875
+kielbasi	1	1874
+killings	1	1370
+kindless	3	1878	2076	3652
+kindness	1	1877
+kinesics	1	1880
+kinetics	1	1879
+kingbolt	1	2709
+kinkiest	2	1017	1873
+kitching	3	1686	2343	3663
+knickers	1	1885
+knockers	1	1884
+knottier	1	3015
+knuckled	1	1888
+knuckles	1	1887
+kolinski	1	1890
+kolinsky	1	1889
+labdanum	1	1918
+labeling	1	1949
+labelled	2	1894	1950
+labeller	2	1893	1951
+lacerate	1	2023
+laciness	2	1924	2496
+lamellae	1	1898
+lamellas	1	1897
+lameness	4	1536	1912	2759	3279
+landskip	1	1901
+landslip	1	1900
+landsman	2	229	1903
+landsmen	2	230	1902
+langrage	1	1905
+language	1	1904
+lankness	2	881	2509
+lanneret	1	235
+lapboard	1	1909
+larboard	1	1908
+lashings	1	3590
+latching	6	268	535	1654	2048	2307	3593
+lateness	1	1899
+latently	1	2310
+latticed	1	1915
+lattices	1	1914
+laudable	1	1917
+laudably	1	1916
+laudanum	1	1891
+laughter	1	883
+launched	2	1921	1922
+launcher	2	1920	1922
+launches	3	1655	1920	1921
+lavalier	1	540
+laziness	2	1657	1896
+lconvert	4	1339	1554	1658	1726
+leadings	4	1661	1933	1990	2535
+leafless	1	1928
+leaflets	1	1927
+leanness	1	2055
+learning	1	3715
+leathern	1	1932
+leathers	4	1342	1674	1931	3603
+leavings	1	1926
+lectured	2	1935	1936
+lecturer	2	1934	1936
+lectures	2	1934	1935
+legalism	1	1938
+legalist	1	1937
+legation	1	2151
+lenience	1	1941
+leniency	1	1940
+lenitive	1	1557
+lettered	4	311	1358	1944	1983
+letterer	1	1943
+leveling	2	312	2679
+levelled	2	1947	2680
+leveller	2	1946	2681
+leverage	1	313
+libeling	1	1892
+libelled	2	1893	1951
+libeller	2	1894	1950
+liberals	1	1979
+liberate	1	1980
+libretti	1	1955
+libretto	1	1954
+licensed	2	1957	1958
+licensee	2	1956	1958
+licenses	2	1956	1957
+lifeless	1	3642
+lifelong	1	1986
+lightens	2	1962	3338
+lighters	2	1364	1961
+lightest	1	3339
+lighting	3	1365	2708	2921
+likelier	1	1985
+likeness	1	1987
+liminess	1	1968
+limpness	1	1967
+lineally	1	1970
+linearly	1	1969
+linesman	1	1972
+linesmen	1	1971
+lingered	2	1378	1974
+lingerer	1	1973
+lippiest	2	2162	3727
+lipstick	1	1018
+listened	1	1978
+listener	1	1977
+literals	1	1952
+literate	2	1953	1981
+literati	1	1980
+litigate	1	2089
+littered	1	1943
+liveable	1	2008
+livelier	2	1965	2009
+livelong	1	1960
+liveness	1	1966
+liveried	1	1989
+liveries	1	1988
+loadings	1	1926
+lobbyist	1	1692
+localism	1	2012
+localize	1	3560
+location	2	1996	3561
+locative	1	3562
+locution	1	1994
+lodgings	1	2003
+loitered	1	1999
+loiterer	1	1998
+lollipop	1	2001
+lollypop	1	2000
+lonelier	1	2009
+longings	1	1997
+loosened	1	2005
+loosener	1	2004
+lossiest	2	390	2007
+lousiest	1	2006
+loveable	1	1984
+lovelier	3	1985	2002	2010
+lovelies	1	2009
+lowering	3	787	2389	3374
+loyalism	2	1992	2013
+loyalist	2	2012	2728
+luckiest	1	1119
+lumbered	2	2016	2178
+lumberer	2	2015	2179
+lumpiest	3	464	1125	1862
+luncheon	1	2467
+lunching	5	465	2020	2022	2120	2468
+lurching	1	2019
+lustiest	4	1129	1527	1622	2739
+lynching	1	2019
+macerate	1	1895
+machined	1	2025
+machines	1	2024
+mailable	1	217
+mailings	1	1310
+maleness	2	1626	2289
+manacing	2	2030	2067
+managing	1	2029
+mandated	1	2032
+mandates	1	2031
+mangling	6	880	1538	1841	2077	3284	3578
+manifold	1	2035
+manyfold	1	2034
+marbling	2	1540	3579
+marching	1	2048
+markable	1	2042
+markings	1	2043
+marriage	1	526
+marrying	3	528	1649	3288
+maskable	1	2038
+maskings	1	2039
+massages	2	2069	2303
+mastered	1	2052
+masterly	1	1137
+matchers	2	534	3592
+matching	7	268	535	1654	1911	2037	2307	3593
+material	2	2050	2051
+materiel	1	2049
+maternal	2	2049	2311
+mattered	5	270	2045	2130	2313	3292
+maturate	1	2766
+mealtime	1	2056
+meanness	1	1929
+meantime	1	2054
+measured	2	2058	2059
+measurer	2	2057	2059
+measures	2	2057	2058
+meddling	2	2071	2114
+mediated	1	2062
+mediates	1	2061
+medicate	2	911	2064
+meditate	1	2063
+megabits	1	2070
+mellowed	2	297	3716
+menacing	1	2029
+mentally	1	946
+messages	1	2044
+metabits	1	2065
+middling	6	1001	1360	2060	2114	2335	2706
+midified	1	2095
+migrated	1	2074
+migrates	1	2073
+mildness	1	3644
+mindless	2	1877	3652
+mingling	4	1847	2033	2931	3346
+minimise	1	2079
+minimize	1	2078
+minister	1	2932
+miscount	2	1022	3558
+misplace	1	1032
+mistaken	1	2084
+mistakes	1	2083
+mistress	1	1046
+mistrust	1	1048
+mistyped	1	2088
+mistypes	1	2087
+mitigate	1	1982
+mixtures	1	1389
+modality	2	2107	3027
+modeling	1	3721
+modelled	2	2094	3722
+modeller	2	2093	3723
+modified	4	657	2072	2096	2097
+modifier	3	658	2095	2097
+modifies	3	659	2095	2096
+monarchs	1	2099
+monarchy	1	2098
+monetary	1	2101
+monitary	2	2100	2104
+monition	1	2121
+monitors	1	2104
+monitory	2	2101	2103
+monotone	1	2106
+monotony	1	2105
+morality	1	2091
+mortally	1	2109
+mortalty	1	2108
+mothered	2	393	2111
+motherer	1	2110
+mountain	1	1484
+mounting	1	780
+muddling	6	849	1513	1709	2060	2071	2466
+muffling	1	2730
+multiple	1	2117
+multiply	1	2116
+mumblers	2	462	3427
+mumbling	6	463	1517	1712	1861	2732	3428
+munching	3	465	2019	2468
+munition	1	2102
+murdered	1	2123
+murderer	1	2122
+murmured	1	2125
+murmurer	1	2124
+musicale	1	2127
+musicals	1	2126
+mutative	1	2477
+muteness	1	867
+muttered	4	483	1623	2052	2131
+mutterer	2	484	2130
+naphthol	1	2133
+naphthyl	1	2132
+narrowed	2	1648	2135
+narrower	1	2134
+nascence	1	2137
+nascency	1	2136
+nastiest	3	1653	2142	3290
+natality	1	1330
+natation	1	2170
+national	2	2175	2520
+nattiest	7	271	537	1336	2138	2163	2183	2521
+nearness	2	889	2144
+neatness	1	2143
+necroses	1	2146
+necrosis	2	2145	2156
+neediest	3	2564	2837	3604
+needlers	1	2149
+needless	2	1678	2148
+needling	1	2839
+negation	1	1939
+nestling	1	2153
+nettling	2	2152	2849
+neuritic	2	2155	2157
+neuritis	1	2154
+neurosis	1	2146
+neurotic	1	2154
+niceties	1	2161
+niftiest	1	2163
+niggling	3	1562	1846	3643
+nineties	1	2158
+nippiest	2	1975	3727
+nittiest	4	2142	2159	2183	3664
+nominate	1	1065
+noontide	1	2166
+noontime	1	2165
+normally	1	1477
+nosiness	1	2719
+notaries	1	3566
+notation	3	2140	2384	2720
+notching	1	392
+notified	2	2173	2174
+notifier	2	2172	2174
+notifies	2	2172	2173
+notional	1	2141
+nubbiest	1	3426
+nudeness	1	2729
+numbered	2	2015	2179
+numberer	2	2016	2178
+numbness	1	1124
+nurtured	1	2182
+nurtures	1	2181
+nuttiest	3	2142	2163	2743
+nuzzling	2	1624	2478
+objected	1	2186
+objecter	1	2185
+oblation	1	4
+obligate	2	2189	2190
+obligati	2	2188	2190
+obligato	2	2188	2189
+obscured	2	2192	2193
+obscurer	2	2191	2193
+obscures	2	2191	2192
+observed	2	2195	2196
+observer	2	2194	2196
+observes	2	2194	2195
+obviated	1	2198
+obviates	1	2197
+occluded	1	2200
+occludes	1	2199
+occupied	2	2202	2203
+occupier	2	2201	2203
+occupies	2	2201	2202
+oconnell	1	2205
+odonnell	1	2204
+offended	1	2207
+offender	1	2206
+oiliness	1	3645
+oncoming	1	1767
+operandi	1	2211
+operands	1	2210
+operated	1	2213
+operates	1	2212
+opposing	1	125
+opposite	1	126
+opulence	1	2217
+opulency	1	2216
+orbiters	1	136
+organism	1	2220
+organist	1	2219
+outcasts	1	2227
+outdoing	1	2224
+outfight	1	2235
+outgoing	1	2222
+outgrown	1	2226
+outgrows	1	2225
+outlasts	1	2221
+outlined	2	2229	2230
+outlines	2	2228	2231
+outlived	2	2228	2231
+outlives	2	2229	2230
+outraged	1	2233
+outrages	1	2232
+outrider	1	2238
+outright	1	2223
+outshine	1	2237
+outshone	1	2236
+outsider	1	2234
+outvoted	1	2240
+outvotes	1	2239
+overbear	1	2254
+overcame	1	2243
+overcome	1	2242
+overdone	2	2245	2272
+overdose	1	2244
+overdraw	1	2247
+overdrew	2	2246	2249
+overfill	1	2256
+overgrew	2	2247	2250
+overgrow	1	2249
+overhand	2	2252	2258
+overhang	2	2251	2255
+overhead	1	2254
+overhear	2	2241	2253
+overhung	1	2252
+overkill	1	2248
+overlaid	1	2258
+overland	2	2251	2257
+overlaps	1	2260
+overlays	1	2259
+overload	1	2263
+overlook	1	2273
+overlord	1	2261
+override	1	2265
+overrode	1	2264
+overseas	1	2269
+overseen	2	2268	2269
+overseer	2	2267	2269
+oversees	3	2266	2267	2268
+overshoe	1	2271
+overshot	1	2270
+overtone	1	2244
+overtook	1	2262
+overture	1	2275
+overturn	1	2274
+oxidized	1	2277
+oxidizer	1	2276
+pacified	2	2279	2280
+pacifier	2	2278	2280
+pacifies	2	2278	2279
+packaged	2	2282	2283
+packager	2	2281	2283
+packages	2	2281	2282
+painters	2	2362	2417
+painting	3	1311	2363	2418
+pairings	1	1312
+palatine	1	2288
+palatize	1	2287
+paleness	2	1626	2028
+pampered	2	1631	3280
+pantries	1	1539
+papering	1	3286
+pardoned	1	2294
+pardoner	1	2293
+parietal	1	3525
+parishes	1	2322
+parsings	1	2302
+partaker	1	2299
+partakes	1	2298
+partible	1	2301
+particle	1	2300
+partings	1	2297
+passages	1	2044
+pastille	1	267
+pastness	2	1327	3527
+pastures	1	2383
+patching	7	268	535	1654	1911	2048	2343	3593
+patented	1	2309
+patenter	1	2308
+patently	1	1913
+paternal	1	2051
+pathetic	1	269
+pattered	3	270	2052	3292
+pediment	1	2833
+pensions	1	3303
+perfecto	1	2317
+perfects	1	2316
+perfumed	1	2319
+perfumes	1	2318
+perished	2	2321	2322
+perisher	2	2320	2322
+perishes	3	2296	2320	2321
+permuted	1	2324
+permutes	1	2323
+pervaded	1	2326
+pervades	1	2325
+phantasm	1	2328
+phantasy	1	2327
+pheasant	1	2353
+picketed	2	2331	2361
+picketer	1	2330
+pickling	1	3336
+pictured	1	2334
+pictures	1	2333
+piddling	5	1001	1360	2071	2466	2706
+pigments	1	1366
+pillaged	1	2338
+pillared	1	2337
+piloting	1	2344
+pinching	2	2343	2468
+pinnacle	1	326
+pinnings	1	3654
+pitching	5	1686	1883	2307	2340	3663
+pivoting	1	2339
+planking	4	337	1394	2347	2349
+planners	1	2348
+planning	2	2345	2349
+planters	3	2346	2350	2351
+planting	3	2345	2347	2950
+plasters	3	338	2348	2351
+platters	4	1399	2348	2350	2355
+pleading	1	2354
+pleasant	1	2329
+pleasing	1	2352
+plotters	1	2351
+plotting	3	357	638	2971
+plucking	1	640
+plumbers	1	2974
+plunders	3	359	2360	2386
+plungers	1	2359
+pocketed	2	2330	2712
+pointers	2	2284	2417
+pointing	2	2285	2418
+poisoned	1	2365
+poisoner	2	2364	2419
+polished	2	2367	2368
+polisher	2	2366	2368
+polishes	2	2366	2367
+politick	2	2370	2371
+politico	2	2369	2371
+politics	2	2369	2370
+polluted	1	2373
+pollutes	1	2372
+pondered	2	2388	3666
+populace	1	2376
+populate	2	764	2375
+porthole	1	2382
+position	1	2379
+positron	1	2378
+possible	1	2381
+possibly	1	2380
+posthole	1	2377
+postures	1	2306
+potation	2	2170	2720
+pouncing	3	396	1856	2387
+pounders	2	1482	2359
+pounding	7	397	1483	1706	2385	2724	3041	3689
+powdered	1	2374
+powering	3	787	2011	3374
+praising	1	404
+preached	3	416	2392	2393
+preacher	3	417	2391	2393
+preaches	3	418	2391	2392
+preceded	1	2395
+precedes	2	2394	2424
+precious	1	2415
+predated	1	2398
+predates	1	2397
+prefaced	1	2400
+prefaces	1	2399
+prefixed	1	2402
+prefixes	1	2401
+premiere	1	2404
+premiers	1	2403
+premises	1	2439
+prepared	1	2407
+prepares	1	2406
+presents	1	2414
+presided	1	2410
+presides	1	2409
+pressing	1	1104
+pretests	2	2413	2457
+pretexts	1	2412
+prevents	1	2408
+previous	1	2396
+pricking	1	3406
+printers	2	2284	2362
+printing	2	2285	2363
+prisoner	1	2365
+probable	2	2421	2458
+probably	2	2420	2459
+probated	2	2423	2453
+probates	2	2422	2454
+procedes	1	2395
+procured	2	2426	2427
+procurer	2	2425	2427
+procures	2	2425	2426
+produced	2	2429	2430
+producer	2	2428	2430
+produces	3	2428	2429	2431
+products	1	2430
+profiled	2	2433	2434
+profiles	1	2432
+profited	1	2432
+profound	1	2452
+projects	1	2456
+prologue	1	2455
+promised	1	2439
+promises	2	2405	2438
+promoted	3	2441	2442	2443
+promoter	3	2440	2442	2444
+promotes	2	2440	2441
+prompted	2	2440	2444
+prompter	2	2441	2443
+properly	1	2446
+property	1	2445
+prophecy	1	2448
+prophesy	1	2447
+proposed	2	2450	2451
+proposer	2	2449	2451
+proposes	2	2449	2450
+propound	1	2435
+prorated	2	2422	2454
+prorates	2	2423	2453
+prorogue	1	2437
+protects	2	2436	2457
+protests	2	2412	2456
+provable	2	2420	2459
+provably	2	2421	2458
+provided	2	2461	2462
+provider	2	2460	2462
+provides	2	2460	2461
+provoked	1	2464
+provokes	1	2463
+prowling	1	1612
+puddling	5	849	1513	1709	2114	2335
+puncheon	1	2018
+punching	4	465	2019	2120	2340
+puncture	1	1864
+punished	1	2471
+punishes	1	2470
+purified	2	2473	2474
+purifier	2	2472	2474
+purifies	2	2472	2473
+purposed	1	2476
+purposes	1	2475
+putative	1	2128
+puzzling	2	1624	2184
+quarried	2	2480	2481
+quarrier	2	2479	2481
+quarries	2	2479	2480
+quarters	1	2483
+quartets	1	2482
+quavered	1	2492
+quelling	2	1122	1514
+quenched	1	2487
+quenches	1	2486
+quibbled	1	2489
+quibbler	1	2488
+quieting	1	2491
+quilting	1	2490
+quivered	1	2484
+rachitic	1	2494
+rachitis	1	2493
+racially	1	2497
+raciness	1	1896
+radially	1	2495
+radiated	1	2499
+radiates	1	2498
+raffling	4	213	2707	2730	3572
+raggedly	2	1840	2731
+rallying	3	875	2753	3278
+rambling	2	1535	2732
+ramified	1	2518
+ranchman	1	2506
+ranchmen	1	2505
+randiest	4	878	1634	2508	2762
+rangiest	1	2507
+rankness	2	881	1906
+rapacity	1	508
+rapidity	1	3519
+raptures	2	516	2737
+rareness	1	248
+rareties	1	2515
+rarities	1	2514
+raspiest	1	3591
+rassling	1	1651
+ratified	2	2504	2519
+ratifies	1	2518
+rational	1	2141
+rattiest	5	271	537	1336	2142	2743
+rattlers	1	272
+rattling	3	273	3293	3595
+ravagers	1	2767
+ravaging	1	2768
+raveling	2	2528	2679
+ravelled	1	2680
+ravening	1	2526
+rawboned	1	1842
+reaching	3	275	2531	3298
+reacting	1	2530
+readable	1	2533
+readably	1	2532
+readiest	3	276	1660	2564
+readings	2	1661	1926
+realized	1	2537
+realizes	1	2536
+reasoned	2	2539	2825
+reasoner	2	2538	2826
+rebating	2	891	2588
+rebounds	1	2656
+receding	2	2553	2827
+received	3	896	2544	2545
+receiver	3	897	2543	2545
+receives	3	898	2543	2544
+recently	1	899
+recessed	1	2548
+recesses	1	2547
+reckless	1	1345
+reckoned	2	283	2551
+reckoner	1	2550
+reclined	1	906
+recoding	2	909	2542
+recorded	1	2555
+recorder	1	2554
+recursed	1	2557
+recurses	1	2556
+recycled	1	2559
+recycles	1	2558
+redeemed	1	2561
+redeemer	1	2560
+reducers	1	2835
+reducing	2	912	2836
+reediest	4	2147	2534	2837	3604
+reelects	1	2571
+refacing	1	913
+refereed	1	2568
+referees	1	2567
+refining	2	923	2623
+refitted	1	284
+reflects	1	2565
+reformed	2	925	2573
+reformer	1	2572
+refrains	1	2674
+refusing	1	2576
+refuting	2	2575	2637
+regained	2	2607	2664
+regarded	2	2666	2702
+register	1	2650
+reigning	2	929	1348
+rejected	1	930
+rejoiced	3	2583	2584	2585
+rejoicer	2	2582	2584
+rejoices	2	2582	2583
+rejoined	1	2582
+relapsed	1	2587
+relapses	1	2586
+relating	3	2540	2589	2590
+relaxing	2	2588	2590
+relaying	5	292	931	2588	2589	2617
+released	1	2592
+releases	1	2591
+relegate	1	932
+relented	2	2622	2642
+relevant	1	2596
+relevent	1	2595
+reliable	1	2598
+reliably	1	2597
+relieved	3	294	2600	2601
+reliever	3	295	2599	2601
+relieves	3	296	2599	2600
+relished	1	2603
+relishes	1	2602
+reliving	1	2696
+reloaded	1	2606
+reloader	1	2605
+remained	2	2577	2664
+remedied	1	2609
+remedies	1	2608
+reminded	1	2611
+reminder	1	2610
+reneging	1	2613
+renewing	1	2612
+renounce	1	945
+repaired	1	2616
+repairer	1	2615
+repaying	2	2590	2628
+repealed	3	2619	2620	2678
+repealer	2	2618	2621
+repeated	2	2618	2622
+repeller	2	2619	2681
+repented	3	2594	2620	2642
+repining	1	2569
+replaced	3	2625	2626	2627
+replacer	2	2624	2626
+replaces	2	2624	2625
+replayed	1	2624
+replying	1	2617
+reported	3	2630	2655	2670
+reporter	1	2629
+reposing	1	954
+reprieve	1	2675
+reproved	1	2634
+reprover	1	2633
+repulsed	1	2636
+repulses	1	2635
+reputing	2	958	2576
+requests	1	299
+requeued	1	959
+required	1	2641
+requires	1	2640
+resented	2	2594	2622
+reserved	3	968	2644	2645
+reserver	2	2643	2645
+reserves	3	969	2643	2644
+residuua	1	2647
+residuum	1	2646
+resigned	1	970
+resisted	1	2650
+resister	3	2579	2649	2651
+resistor	1	2650
+resolved	3	2653	2654	2699
+resolver	3	2652	2654	2700
+resolves	3	2652	2653	2701
+resorted	2	2629	2670
+resounds	1	2541
+restated	2	1558	2658
+restates	1	2657
+restless	1	2741
+restored	2	2661	2662
+restorer	2	2660	2662
+restores	2	2660	2661
+retailer	1	2665
+retained	4	979	2577	2607	2665
+retainer	3	980	2663	2664
+retarded	3	2578	2667	2702
+retarder	1	2666
+retested	1	982
+retiring	1	2703
+retorted	2	2629	2655
+retraced	1	2672
+retraces	2	2671	2673
+retracts	2	983	2672
+retrains	1	2574
+retrieve	1	2632
+returned	1	2677
+returner	1	2676
+revealed	2	2618	2680
+reveling	5	312	1945	2526	2687	2694
+revelled	4	1946	2527	2678	2681
+reveller	3	1947	2621	2680
+revenged	1	2683
+revenger	1	2682
+reverend	1	2685
+reverent	1	2684
+reveries	1	2690
+revering	2	2679	2850
+reversed	3	2689	2690	2691
+reverser	2	2688	2690
+reverses	3	2686	2688	2689
+reverted	1	2688
+reviewed	1	2693
+reviewer	1	2692
+reviling	4	988	2679	2695	2696
+revising	3	989	2694	2696
+reviving	3	2604	2694	2695
+revolted	2	2698	2699
+revolter	2	2697	2700
+revolved	5	990	2652	2697	2700	2701
+revolver	4	2653	2698	2699	2701
+revolves	3	2654	2699	2700
+rewarded	2	2578	2666
+rewiring	1	2669
+rewriter	1	2705
+rewrites	1	2704
+riddling	4	1001	1360	2071	2335
+riffling	2	2500	2730
+righting	3	1365	1964	2921
+ringbolt	1	1881
+rippling	1	3352
+roasting	3	367	650	3354
+rocketed	1	2361
+rockiest	1	654
+rogation	1	2720
+romanced	2	2716	2717
+romancer	2	2715	2717
+romances	2	2715	2716
+rootless	2	385	1454
+rosiness	1	2168
+rotation	3	2170	2384	2714
+roughest	1	3370
+roughing	1	776
+roundest	1	3040
+rounding	6	397	1483	1706	2387	3041	3689
+routines	1	2726
+routings	1	2725
+rowdiest	1	1074
+royalist	1	2013
+rudeness	1	2177
+ruffling	3	2115	2500	2707
+ruggedly	1	2501
+rumbling	8	463	1517	1712	1861	2119	2503	2733	3428
+rumpling	2	1126	2732
+runniest	3	1521	2735	3231
+runtiest	3	2734	2739	2743
+ruptured	1	2737
+ruptures	2	2512	2736
+rushiest	4	477	865	1621	2739
+rustiest	7	1129	1527	1622	2021	2735	2738	2743
+rustlers	1	2741
+rustless	3	1130	2659	2740
+rustling	3	480	1723	1866
+ruttiest	4	2183	2521	2735	2739
+sabotage	1	487
+sabulous	1	1305
+saddling	1	3571
+safeness	2	2748	2759
+sageness	2	2747	2759
+saggiest	2	214	3030
+saleable	2	2755	2769
+salesman	2	873	3275
+salience	1	2763
+sallying	4	875	2502	3228	3278
+saltiest	1	2929
+salvable	2	2750	3037
+salvaged	2	2757	2758
+salvager	2	2756	2758
+salvages	2	2756	2757
+sameness	5	1536	1899	2747	2748	3279
+sanctify	1	2761
+sanctity	1	2760
+sandiest	3	878	1634	2507
+sapience	1	2752
+sappiest	1	1638
+sassiest	1	1548
+saturate	1	2053
+savagers	1	2524
+savaging	1	2525
+saveable	1	2750
+savoring	1	1338
+scabbier	1	2852
+scabbing	2	3108	3249
+scalable	1	2821
+scalding	1	2791
+scaliest	1	2782
+scallion	2	2814	3114
+scampers	1	3116
+scanners	1	3045
+scanning	1	3046
+scapulae	1	2781
+scapulas	1	2780
+scariest	1	2775
+scarring	2	3050	3121
+scathing	2	2820	3252
+scatters	1	2868
+schooled	1	2787
+schooler	2	2786	2788
+schooner	1	2787
+scimitar	1	2790
+scimiter	1	2789
+scolding	1	2774
+scooping	3	3011	3162	3269
+scorched	2	2794	2795
+scorcher	2	2793	2795
+scorches	2	2793	2794
+scourged	1	2797
+scourger	1	2796
+scouring	1	2799
+scouting	3	2798	2905	3089
+scrabble	2	2801	2808
+scramble	1	2800
+scrapped	2	2803	3171
+scrapper	1	2802
+scrawled	1	3090
+screamed	2	2806	3174
+screamer	2	2805	3175
+screwing	1	3178
+scribble	1	2800
+scrolled	1	3190
+scrubbed	1	2811
+scrubber	1	2810
+scuffled	3	2813	2913	3019
+scuffles	2	2812	2915
+scullion	1	2776
+scumming	1	2975
+scurfier	1	2817
+scurvier	1	2816
+scuttled	2	2819	2917
+scuttles	2	2818	2918
+scything	1	2784
+sealable	1	2773
+searched	3	2823	2824	3119
+searcher	2	2822	2824
+searches	2	2822	2823
+seasoned	2	2538	2826
+seasoner	2	2539	2825
+seceding	1	2542
+seconded	1	2829
+seconder	1	2828
+secreted	1	2831
+secretes	1	2830
+sedation	1	2834
+sediment	1	2314
+sedition	1	2832
+seducers	1	2562
+seducing	2	912	2563
+seediest	3	2147	2564	3604
+seedings	1	1346
+seedling	1	2150
+seminars	1	2841
+seminary	1	2840
+sensible	1	2843
+sensibly	1	2842
+septette	1	2851
+serviced	1	2846
+services	2	550	2845
+settable	1	3609
+settings	1	2933
+settling	1	2153
+severing	1	2687
+sextette	1	2844
+shabbier	1	2771
+shackled	1	2854
+shackles	1	2853
+shadiest	1	2861
+shadings	1	2869
+shadowed	1	2858
+shadower	1	2857
+shakable	2	2860	2867
+shakably	1	2859
+shakiest	2	2855	2994
+shambled	1	2863
+shambles	1	2862
+shamming	1	2948
+shanteys	1	558
+shanties	1	559
+sharable	1	2859
+shatters	3	571	2785	2916
+shavings	1	2856
+shearing	3	2871	2980	3253
+sheaving	2	2870	2874
+shedding	1	2953
+shelling	5	2874	2877	2981	3060	3257
+shelving	2	2871	2873
+sherries	2	579	3619
+shifting	1	2889
+shilling	4	581	2873	3066	3147
+shimmers	2	2879	3258
+shimmery	1	2878
+shingled	1	2881
+shingles	1	2880
+shiniest	2	3069	3621
+shinnied	1	3622
+shinning	3	583	2942	3071
+shippers	4	2898	2943	2965	3624
+shipping	5	2899	2944	2967	3007	3625
+shirking	2	2888	2889
+shirring	4	2887	2889	3151	3627
+shirting	5	2876	2887	2888	2900	2945
+shivered	1	2891
+shiverer	1	2890
+shockers	1	3155
+shocking	2	2983	3158
+shoddier	1	2895
+shoddies	1	2894
+shooters	1	2904
+shooting	2	2900	2905
+shoppers	3	589	2885	3163
+shopping	5	590	2886	2970	3164	3270
+shorting	5	2889	2897	2905	3014	3086
+shoulder	1	2988
+shouldnt	1	2903
+shouldst	1	2902
+shouters	1	2896
+shouting	4	2799	2897	2900	3089
+shoveled	1	2907
+shoveler	1	2906
+showiest	1	3016
+shredded	1	2910
+shredder	1	2909
+shrilled	1	3329
+shriving	2	3187	3331
+shuffled	4	2812	2914	2915	3019
+shuffler	2	2913	2915
+shuffles	3	2813	2913	2914
+shutters	1	2868
+shuttled	2	2818	2918
+shuttles	2	2819	2917
+sicklied	1	2920
+sicklier	1	2919
+sighting	3	1365	1964	2708
+signaled	1	2923
+signaler	1	2922
+silenced	2	2925	2926
+silencer	2	2924	2926
+silences	2	2924	2925
+silkiest	3	2928	2929	3227
+silliest	3	1685	2927	2929
+siltiest	3	2754	2927	2928
+singeing	2	2931	3344
+singling	4	1847	2077	2930	3346
+sinister	1	2080
+sittings	2	1388	2848
+situated	1	2935
+situates	1	2934
+sizzling	1	1390
+sketched	1	2938
+sketches	1	2937
+skimming	3	2940	2962	3259
+skimping	2	2939	2944
+skinners	1	3070
+skinning	2	2884	3071
+skippers	2	2885	2965
+skipping	4	2886	2940	2967	3007
+skirting	1	2889
+slackens	1	330
+slacking	3	332	2978	3110
+slamming	3	2864	2962	2975
+slanders	1	1565
+slanting	1	2349
+slapping	5	607	2967	2970	2996	3251
+slashing	3	608	1397	2979
+sledding	2	2872	2954
+sledging	2	1403	2953
+sleepers	1	3255
+sleeping	2	3135	3256
+slickers	2	1410	3141
+slighted	4	76	346	1412	2959
+slighter	1	2958
+slimiest	1	2961
+slimmest	1	2960
+slimming	4	2939	2948	2975	3259
+slinging	4	1416	2964	3148	3262
+slinking	3	350	2963	3150
+slippers	5	633	1417	2885	2943	2966
+slippery	1	2965
+slipping	6	634	2886	2944	2951	2970	3007
+sloppier	1	1425
+sloppily	1	1427
+slopping	6	1428	2899	2951	2967	3164	3270
+slotting	4	357	638	2356	3088
+slouched	1	2973
+slouches	1	2972
+slumbers	1	2358
+slumming	3	2815	2948	2962
+slurping	1	2977
+slurring	2	361	2976
+smacking	3	2947	2983	3110
+smashing	1	2952
+smearing	2	2870	3253
+smelling	3	2873	3060	3257
+smithers	1	2987
+smocking	3	2893	2978	3158
+smoothed	2	2985	2986
+smoother	2	2984	2986
+smoothes	2	2984	2985
+smothers	1	2982
+smoulder	1	2901
+smuggest	1	3020
+smuggled	3	2991	2992	3021
+smuggler	2	2990	2992
+smuggles	3	2990	2991	3022
+smugness	1	3023
+snakiest	1	2861
+snappier	1	3006
+snapping	3	2951	3007	3251
+snarling	1	3120
+snatched	2	2999	3008
+snatches	1	2998
+sneakers	1	3053
+sneaking	1	3054
+sneering	2	3003	3136
+sneezing	1	3002
+sniffing	1	3018
+sniffled	1	3019
+snippier	1	2995
+snipping	4	2886	2944	2967	2996
+snitched	3	2998	3152	3264
+sniveled	1	3267
+snoopier	1	3012
+snooping	4	2792	3013	3162	3269
+snootier	2	3010	3015
+snoozing	1	3011
+snorting	2	2900	3086
+snottier	3	1886	3012	3087
+snowiest	1	2908
+snubbier	1	3199
+snuffing	2	3004	3204
+snuffled	3	2812	2913	3005
+snuggest	1	2989
+snuggled	2	2990	3022
+snuggles	2	2992	3021
+snugness	1	2993
+sociable	1	3025
+sociably	2	3024	3026
+socially	1	3025
+sodality	1	2091
+softened	1	3029
+softener	1	3028
+soggiest	4	371	1064	1447	2749
+soldered	1	3032
+solderer	1	3031
+soldiers	1	3034
+soldiery	1	3033
+solidify	1	3036
+solidity	1	3035
+solvable	1	2755
+somebody	1	1695
+soreness	1	3239
+soundest	1	2723
+sounding	6	397	1483	1706	2387	2724	3689
+sourness	1	1073
+spacious	1	3055
+spanking	2	3046	3047
+spanners	2	2778	3070
+spanning	4	2779	3044	3052	3071
+sparking	2	3044	3050
+sparkled	1	3049
+sparkler	1	3048
+sparring	3	2783	3047	3121
+spatting	2	3073	3088
+spawning	1	3046
+speakers	1	3000
+speaking	1	3001
+specious	1	3043
+speckled	1	3057
+speckles	1	3056
+speeders	1	3061
+speeding	1	3062
+spelling	4	2873	2981	3066	3257
+spenders	1	3058
+spending	1	3059
+sphinges	1	3064
+sphinxes	1	3063
+spiciest	1	3069
+spilling	3	2877	3060	3147
+spinally	1	3072
+spindled	1	3260
+spiniest	2	2882	3065
+spinners	2	2941	3045
+spinning	3	2884	2942	3046
+spirally	1	3067
+spitting	2	3051	3088
+splashed	1	3075
+splashes	1	3074
+splatter	2	3078	3079
+splinter	2	3078	3093
+splitter	3	3076	3077	3079
+splutter	2	3076	3078
+spoilers	1	3082
+spoiling	1	3083
+spoolers	1	3080
+spooling	2	3081	3084
+spooning	1	3083
+sportier	1	3087
+sporting	5	2900	3014	3088	3089	3096
+spottier	2	3015	3085
+spotting	5	2971	3051	3073	3086	3089
+spouting	4	2799	2905	3086	3088
+sprawled	1	2804
+springer	2	3093	3183
+sprinted	1	3093
+sprinter	3	3077	3091	3092
+spudding	1	3202
+spurning	1	3096
+spurting	2	3086	3095
+squaring	1	3107
+squawked	1	3099
+squawker	1	3098
+squeaked	2	3101	3102
+squeaker	2	3100	3103
+squealed	2	3100	3103
+squealer	2	3101	3102
+squeezed	2	3105	3106
+squeezer	2	3104	3106
+squeezes	2	3104	3105
+squiring	1	3097
+stabbing	3	2772	3109	3249
+stabling	4	3108	3113	3118	3120
+stacking	5	2947	2978	3112	3144	3158
+staffing	1	3204
+stalking	2	3110	3113
+stalling	5	3109	3112	3118	3120	3147
+stallion	1	2776
+stammers	1	3116
+stampers	2	2777	3115
+stamping	2	3208	3250
+stapling	3	3109	3113	3120
+starched	1	2822
+starling	8	2997	3109	3113	3118	3121	3122	3125	3140
+starring	6	2783	3050	3120	3122	3125	3151
+starting	3	3120	3121	3125
+startled	1	3124
+startles	1	3123
+starving	3	3120	3121	3122
+statuses	1	3127
+statutes	1	3126
+steadied	2	3129	3130
+steadier	2	3128	3130
+steadies	2	3128	3129
+stealing	3	3132	3133	3140
+steaming	2	3131	3138
+steeling	4	3131	3135	3136	3140
+steenbok	1	3137
+steeping	5	2956	3133	3136	3139	3256
+steering	3	3002	3133	3135
+steinbok	1	3134
+stemming	1	3132
+stepping	2	3135	3164
+sterling	3	3120	3131	3133
+stickers	3	2957	3149	3155
+stickier	2	3145	3156
+stickily	1	3157
+sticking	3	3110	3150	3158
+stickler	1	3142
+stifling	1	3147
+stilling	4	2877	3066	3113	3146
+stinging	3	2963	3150	3262
+stinkers	1	3141
+stinking	3	2964	3144	3148
+stirring	2	2888	3121
+stitched	4	3008	3153	3154	3264
+stitcher	3	3152	3154	3265
+stitches	3	3152	3153	3266
+stockers	2	2892	3141
+stockier	1	3142
+stockily	1	3143
+stocking	4	2893	2983	3110	3144
+stockman	1	3160
+stockmen	1	3159
+stooging	1	3162
+stooping	5	2792	3011	3161	3164	3269
+stoppers	1	2898
+stopping	5	2899	2970	3139	3162	3270
+straggle	3	3166	3170	3194
+straggly	1	3165
+strained	1	3168
+strainer	1	3167
+stranger	2	3183	3192
+strangle	1	3165
+strapped	3	2802	3185	3193
+streaked	2	3173	3174
+streaker	2	3172	3175
+streamed	3	2805	3172	3175
+streamer	3	2806	3173	3174
+stressed	1	3177
+stresses	1	3176
+strewing	1	2807
+striding	3	3181	3184	3187
+strikers	1	3188
+striking	4	3179	3184	3187	3189
+stringed	1	3183
+stringer	4	3091	3169	3182	3192
+striping	3	3179	3181	3187
+stripped	3	3171	3186	3193
+stripper	1	3185
+striving	4	2912	3179	3181	3184
+strokers	1	3180
+stroking	1	3181
+strolled	2	2809	3191
+stroller	1	3190
+stronger	2	3169	3183
+stropped	2	3171	3185
+struggle	1	3165
+strummed	1	3196
+strummer	1	3195
+strutted	1	3198
+strutter	1	3197
+stubbier	1	3017
+stuccoed	1	3201
+stuccoes	1	3200
+studding	2	3094	3203
+studying	1	3202
+stuffing	2	3018	3111
+stumbled	2	3206	3207
+stumbler	2	3205	3207
+stumbles	2	3205	3206
+stumping	1	3117
+sublists	1	3216
+submerge	1	3211
+submerse	1	3210
+submodes	1	3213
+subnodes	1	3212
+subsided	1	3215
+subsides	1	3214
+subsists	1	3209
+suckling	2	451	1120
+suffered	2	454	3219
+sufferer	1	3218
+sufficed	2	3221	3222
+suffices	2	3220	3224
+suffixed	3	3220	3223	3224
+suffixer	2	3222	3224
+suffixes	3	3221	3222	3223
+suitable	1	3226
+suitably	1	3225
+sulkiest	2	459	2927
+sullying	2	461	2753
+summoned	1	3230
+summoner	1	3229
+sunniest	2	1521	2734
+superman	1	3233
+supermen	1	3232
+supplied	2	3235	3236
+supplier	2	3234	3236
+supplies	2	3234	3235
+supposed	1	3238
+supposes	1	3237
+sureness	1	3039
+surfaced	1	3241
+surfaces	1	3240
+surliest	2	472	855
+surmised	1	3244
+surmises	1	3243
+surnamed	1	3246
+surnames	1	3245
+survived	1	3248
+survives	1	3247
+swabbing	3	2772	3108	3268
+swamping	2	3117	3251
+swapping	4	2951	2996	3250	3270
+swathing	1	2784
+swearing	3	2870	2980	3254
+sweating	1	3253
+sweepers	1	2955
+sweeping	2	2956	3135
+swelling	4	1131	2873	2981	3060
+swimmers	1	2878
+swimming	2	2939	2962
+swindled	3	1132	3068	3261
+swindler	1	3260
+swinging	3	2963	3148	3436
+swirling	1	3441
+switched	5	3008	3152	3265	3266	3443
+switcher	3	3153	3264	3266
+switches	3	3154	3264	3265
+swiveled	1	3009
+swobbing	1	3249
+swooping	4	2792	3011	3162	3270
+swopping	5	2899	2970	3164	3251	3269
+syringes	1	3272
+syrinxes	1	3271
+tackiest	2	3277	3570
+tackling	2	489	3336
+talesman	3	873	2751	3276
+talisman	1	3275
+talkiest	2	224	3273
+tallying	3	875	2502	2753
+tameness	3	1536	1899	2759
+tampered	4	1631	2290	3281	3302
+tamperer	1	3280
+tangible	1	3283
+tangibly	1	3282
+tangling	7	880	1538	1841	2033	3285	3346	3578
+tangoing	1	3284
+tapering	1	2292
+tardiest	1	1645
+tarrying	3	528	1649	2041
+tartness	1	3297
+tastiest	3	1653	2138	3308
+tastings	1	3309
+tattered	4	270	2052	2313	3368
+tattling	3	273	2523	3595
+tattooed	1	3295
+tattooer	1	3294
+taunting	1	1656
+tautness	1	3289
+teaching	2	275	2530
+teariest	1	3602
+teenaged	1	3301
+teenager	1	3300
+tempered	1	3280
+tensions	1	2315
+terraced	1	3305
+terraces	1	3304
+terrible	1	3307
+terribly	1	3306
+testiest	1	3290
+testings	1	3291
+textured	1	3311
+textures	1	3310
+thanking	1	3317
+theaters	1	573
+thickens	2	580	3315
+thickets	1	3314
+thinkers	1	3318
+thinking	1	3312
+thinners	3	582	3316	3319
+thinness	2	3318	3320
+thinnest	1	3319
+thoraces	1	3322
+thoraxes	1	3321
+thrashed	2	3324	3325
+thrasher	3	3323	3325	3328
+thrashes	2	3323	3324
+threaded	1	3327
+threader	1	3326
+thresher	1	3324
+thrilled	2	2911	3330
+thriller	1	3329
+thriving	1	2912
+thrusted	1	3333
+thruster	1	3332
+thumbing	1	3335
+thumping	1	3334
+tickling	3	2332	3274	3351
+tidiness	1	3347
+tightens	1	1961
+tightest	1	1963
+tillable	2	321	1369
+timeless	1	3353
+timidity	1	3429
+tincture	1	599
+tingeing	2	2930	3346
+tinglier	1	3350
+tingling	6	1847	2077	2931	3284	3344	3351
+tininess	1	3337
+tinkered	1	3349
+tinkerer	1	3348
+tinklier	1	3345
+tinkling	2	3336	3346
+tippling	2	2710	3359
+tireless	2	3341	3655
+toasting	3	367	650	2711
+toddling	1	656
+toggling	3	372	1578	1853
+tonality	1	3365
+toneless	2	379	3430
+toppling	1	3352
+torpidly	1	3361
+torridly	2	1703	3360
+tortured	2	3363	3364
+torturer	2	3362	3364
+tortures	2	3362	3363
+totality	1	3357
+totalled	1	3367
+totaller	1	3366
+tottered	1	3292
+touching	3	775	1072	3567
+toughest	1	2721
+tourneys	1	1857
+toweling	2	1075	3374
+towelled	1	1076
+towering	4	787	2011	2389	3372
+trackers	2	789	3417
+tracking	3	790	3406	3418
+traction	1	1485
+tractors	1	3386
+traduced	1	3380
+traducer	1	3379
+trailers	1	3384
+trailing	1	3385
+trainees	1	3384
+trainers	2	3381	3383
+training	4	403	1088	1585	3382
+traitors	1	3378
+tramping	1	3392
+trampled	2	3389	3390
+trampler	2	3388	3390
+tramples	2	3388	3389
+trappers	1	3692
+trapping	2	3387	3693
+traveled	2	1590	3394
+traveler	1	3393
+treading	4	419	1092	3398	3403
+treasure	1	3397
+treasury	1	3396
+treating	1	3395
+trembled	1	3400
+trembles	1	3399
+trencher	1	3402
+trenches	3	1102	3401	3697
+trending	1	3395
+tribunes	1	3405
+tributes	1	3404
+tricking	3	2416	3376	3418
+trickled	2	3408	3419
+trickles	1	3407
+trifling	1	3413
+trimmest	1	1598
+trimming	1	433
+trimness	1	1599
+tripling	1	3409
+troubled	1	3415
+troubles	1	3414
+trouping	1	1609
+truckers	1	3375
+trucking	2	3376	3406
+truckled	1	3407
+trudging	2	1118	1614
+trustees	1	3423
+trustier	2	847	3423
+trusties	2	3421	3422
+trusting	1	3425
+trysting	1	3424
+tubbiest	1	2176
+tumblers	2	462	2118
+tumbling	6	463	1517	1712	1861	2119	2732
+tumidity	2	1714	3342
+tuneless	1	3358
+tunneled	2	1520	3432
+tunneler	1	3431
+turnable	1	473
+turnings	1	474
+twilight	1	3437
+twinging	1	3262
+twinight	1	3435
+twinkled	2	3439	3440
+twinkler	2	3438	3440
+twinkles	2	3438	3439
+twirling	1	3263
+twisters	1	3444
+twitched	1	3264
+twitters	1	3442
+typified	1	3446
+typifies	1	3445
+ultimata	1	3448
+ultimate	1	3447
+unbacked	1	3473
+unbitted	1	3458
+uncaught	1	3484
+unclosed	2	1179	1763
+underlie	1	3454
+underlip	1	3453
+underpay	1	3456
+underway	1	3455
+undulate	1	3461
+unfitted	1	3450
+unfolded	1	1186
+unformed	1	1786
+ungulate	1	3457
+unheeded	2	3470	3477
+unionism	1	3464
+unionist	1	3463
+unlacing	1	1200
+unloosed	1	3467
+unloosen	1	3466
+unmarked	1	3469
+unmasked	1	3468
+unneeded	2	3462	3477
+unnerved	1	3472
+unnerves	1	3471
+unpacked	1	3449
+unparsed	1	3475
+unparser	1	3474
+unrolled	1	1218
+unseeded	2	3462	3470
+unshaped	1	3479
+unshared	1	3478
+unstable	1	3481
+unstably	1	3480
+unstated	1	1801
+untangle	1	1226
+untaught	1	3451
+untitled	2	1232	1814
+untwined	1	1235
+unusable	1	3488
+unusably	1	3487
+unvoiced	1	1825
+unwanted	1	3491
+unwonted	1	3490
+upgraded	1	3493
+upgrades	1	3492
+urbanite	2	3495	3496
+urbanity	1	3494
+urbanize	1	3494
+urethrae	2	3498	3499
+urethral	2	3497	3499
+urethras	2	3497	3498
+urinated	1	3501
+urinates	1	3500
+utilized	1	3503
+utilizes	1	3502
+vacation	1	3561
+vagotomy	1	3526
+valanced	1	220
+valiance	3	874	3508	3524
+valiancy	1	3507
+validity	1	3519
+valorize	1	3520
+valorous	1	3521
+valuable	1	3513
+valuably	1	3512
+vanillic	1	3515
+vanillin	1	3514
+vanished	3	232	3517	3518
+vanisher	2	3516	3518
+vanishes	3	233	3516	3517
+vapidity	2	2511	3509
+vaporize	1	3510
+vaporous	1	3511
+variable	1	3523
+variably	1	3522
+variance	1	3507
+varietal	1	2295
+vasotomy	1	3505
+vastness	2	1327	2305
+vaulting	1	1337
+velicate	2	933	3543
+venation	1	3544
+venemous	1	3534
+venerate	1	1555
+venially	1	1556
+venomous	1	3531
+ventured	2	3536	3537
+venturer	2	3535	3537
+ventures	2	3535	3536
+verified	2	3539	3540
+verifier	2	3538	3540
+verifies	3	3538	3539	3541
+verities	1	3540
+vertexes	1	3565
+vesicate	1	3529
+vexation	1	3530
+vibrator	1	3546
+vibratos	1	3545
+vilified	3	3548	3549	3559
+vilifier	2	3547	3549
+vilifies	2	3547	3548
+villager	1	3551
+villages	1	3550
+villains	1	3553
+villainy	1	3552
+violable	1	3555
+violably	1	3554
+violated	1	3557
+violates	1	3556
+viscount	2	1022	2081
+vivified	1	3547
+vocalize	1	1993
+vocation	2	1994	3504
+vocative	1	1995
+volleyed	1	3564
+volleyer	1	3563
+vortexes	1	3542
+votaries	1	2169
+vouching	3	775	1072	3369
+vultures	1	853
+wabbling	5	208	868	1528	3579	3665
+wackiest	1	3273
+waddling	1	2746
+waffling	2	213	2500
+waggling	3	1625	3578	3643
+walloper	1	1534
+wallowed	1	1629
+wandered	2	3577	3666
+wanderer	1	3576
+wangling	6	880	1538	1841	2033	3284	3573
+warbling	3	1540	2036	3569
+wardroom	1	3582
+wardship	1	1646
+wareroom	1	3580
+wariness	4	3584	3597	3598	3658
+warmness	1	3583
+warnings	1	1134
+warrants	1	3587
+warranty	1	3586
+warships	1	3686
+washiest	1	3591
+washings	1	1910
+waspiest	3	2516	3589	3660
+watchers	2	534	2047
+watching	7	268	535	1654	1911	2048	2307	3663
+watering	2	536	3596
+wattling	3	273	2523	3293
+wavering	1	3594
+waviness	2	3583	3598
+waxiness	2	3583	3597
+weakling	2	3600	3605
+weanling	2	3599	3712
+wearable	1	277
+weariest	1	3299
+weathers	3	1342	1674	1932
+weediest	4	2147	2564	2837	3606
+weekling	1	3599
+weepiest	1	3604
+welcomed	1	3608
+welcomes	1	3607
+wettable	1	2847
+whaleman	1	3611
+whalemen	1	3610
+whammies	1	554
+wheedled	1	3614
+wheedler	1	3613
+wheeling	1	3616
+wheezing	1	3615
+whenever	1	3618
+wherever	1	3617
+wherries	2	579	2875
+whimpers	2	3624	3630
+whiniest	1	2882
+whinnied	2	2883	3623
+whinnies	1	3622
+whippers	3	2885	3620	3630
+whipping	1	2886
+whirling	1	3627
+whirring	2	2888	3626
+whiskers	2	3629	3630
+whiskeys	1	3628
+whispers	3	3620	3624	3628
+whistled	3	3632	3633	3636
+whistler	2	3631	3633
+whistles	3	3631	3632	3637
+whitened	1	3635
+whitener	1	3634
+whittled	2	3631	3637
+whittles	2	3633	3636
+whomever	1	3639
+whosever	1	3638
+wideness	1	3659
+wielding	2	1361	3720
+wifeless	2	1959	3655
+wiggling	4	1562	1846	2160	3573
+wildness	2	2075	3645
+wiliness	3	2208	3644	3658
+williwaw	1	3647
+willywaw	1	3646
+wimpling	1	1015
+windfall	1	3650
+windgall	1	3649
+windlass	1	3652
+windless	3	1877	2076	3651
+wineries	1	1377
+winnings	1	2342
+wireless	2	3353	3642
+wirework	2	1383	3657
+wireworm	1	3656
+wiriness	3	72	3583	3645
+wiseness	1	3640
+wispiest	1	3591
+wistaria	1	3662
+wisteria	1	3661
+witching	4	1686	1883	2343	3593
+wittiest	1	2163
+wobbling	5	370	652	1577	1691	3569
+wondered	2	2374	3576
+woodiest	2	3678	3680
+woodshed	1	3677
+woodsman	1	3670
+woodsmen	1	3669
+woodwork	1	3672
+woodworm	1	3671
+woollier	1	3674
+woollies	1	3673
+woolpack	1	3676
+woolsack	1	3675
+woolshed	1	3668
+wooziest	2	386	3667
+wordbook	1	3684
+wordiest	2	3667	3685
+wordless	1	765
+workable	1	3683
+workably	1	3682
+workbook	1	3679
+wormiest	1	3680
+worships	1	3588
+worthier	1	3688
+worthies	1	3687
+wounding	6	397	1483	1706	2387	2724	3041
+wrangled	1	3691
+wrangler	1	3690
+wrappers	1	3391
+wrapping	1	3392
+wreathed	2	422	3695
+wreathes	2	424	3694
+wrenched	3	1101	3697	3701
+wrenches	4	1102	3402	3696	3702
+wrestled	2	3699	3700
+wrestler	2	3698	3700
+wrestles	2	3698	3699
+wretched	2	3696	3702
+wretches	2	3697	3701
+wriggled	2	3704	3705
+wriggler	2	3703	3705
+wriggles	2	3703	3704
+wringing	4	434	820	1502	3709
+wrinkled	2	821	3708
+wrinkles	1	3707
+wronging	1	3706
+xanthene	1	3711
+xanthone	1	3710
+yeanling	2	3600	3713
+yearling	3	3712	3714	3715
+yearlong	1	3713
+yearning	2	1930	3713
+yellowed	3	297	2066	3717
+yellower	1	3716
+yeomanly	1	3719
+yeomanry	1	3718
+yielding	2	1361	3641
+yodeling	1	2092
+yodelled	2	2093	3723
+yodeller	2	2094	3722
+ytterbia	1	3725
+ytterbic	1	3724
+zillions	1	323
+zippiest	2	1975	2162
+zonation	1	1066

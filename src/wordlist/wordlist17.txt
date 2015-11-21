@@ -1,0 +1,9 @@
+8
+compartmentalized	1	1
+compartmentalizes	1	0
+institutionalized	1	3
+institutionalizes	1	2
+intercommunicated	1	5
+intercommunicates	1	4
+transcendentalism	1	7
+transcendentalist	1	6

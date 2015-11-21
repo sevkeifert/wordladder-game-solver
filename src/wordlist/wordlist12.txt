@@ -1,0 +1,443 @@
+442
+acclimatized	1	1
+acclimatizes	1	0
+accommodated	1	3
+accommodates	1	2
+accomplished	2	5	6
+accomplisher	2	4	6
+accomplishes	2	4	5
+acculturated	1	8
+acculturates	1	7
+acknowledged	2	10	11
+acknowledger	2	9	11
+acknowledges	2	9	10
+agglomerated	1	13
+agglomerates	1	12
+agglutinated	1	15
+agglutinates	1	14
+alphabetized	1	17
+alphabetizes	1	16
+altercations	1	19
+alternations	1	18
+anesthetized	1	21
+anesthetizes	1	20
+appositeness	1	297
+appropriated	1	24
+appropriates	1	23
+approximated	1	26
+approximates	1	25
+arithmetized	1	28
+arithmetizes	1	27
+artilleryman	1	30
+artillerymen	1	29
+assassinated	1	32
+assassinates	1	31
+auspiciously	1	399
+backstitched	1	35
+backstitches	1	34
+belligerence	1	37
+belligerency	1	36
+cannibalized	1	39
+cannibalizes	1	38
+captiousness	1	43
+carpetbagged	1	42
+carpetbagger	1	41
+cautiousness	1	40
+certificated	1	45
+certificates	1	44
+codification	1	287
+collaborated	1	48
+collaborates	1	47
+collectivism	1	50
+collectivist	1	49
+commemorated	1	52
+commemorates	1	51
+commissioned	1	54
+commissioner	1	53
+communicated	1	56
+communicates	1	55
+complemented	2	58	59
+complementer	2	57	60
+complimented	2	57	60
+complimenter	2	58	59
+computerized	1	62
+computerizes	1	61
+concatenated	1	64
+concatenates	1	63
+concentrated	1	66
+concentrates	1	65
+concomitance	1	68
+concomitancy	1	67
+confederated	1	70
+confederates	1	69
+confirmation	1	72
+conformation	1	71
+conjunctivae	1	74
+conjunctivas	1	73
+considerable	1	76
+considerably	1	75
+consolidated	1	78
+consolidates	1	77
+constricting	1	82
+constriction	1	83
+constrictive	1	84
+constructing	1	79
+construction	1	80
+constructive	1	81
+contaminated	1	86
+contaminates	1	85
+contemplated	1	88
+contemplates	1	87
+contemptible	1	90
+contemptibly	1	89
+contiguities	1	93
+contiguously	1	94
+continuities	1	91
+continuously	1	92
+contractions	1	99
+contradicted	1	97
+contradicter	2	96	98
+contradictor	1	97
+contraptions	1	95
+convectional	1	101
+conventional	1	100
+corroborated	1	103
+corroborates	1	102
+countrywoman	1	105
+countrywomen	1	104
+crapshooting	1	414
+crystallized	1	108
+crystallizes	1	107
+deactivating	1	336
+deactivation	1	337
+declassified	1	346
+deemphasized	2	113	353
+deemphasizes	2	112	354
+degenerating	1	357
+degeneration	1	358
+degenerative	1	359
+dehumidified	1	118
+dehumidifier	1	117
+demonstrable	1	120
+demonstrably	1	119
+demonstrated	2	122	364
+demonstrates	2	121	365
+demonstrator	1	366
+denouncement	1	367
+denunciation	1	368
+depositaries	1	127
+depositories	2	126	371
+dereferenced	1	129
+dereferences	1	128
+designations	1	374
+deteriorated	1	132
+deteriorates	1	131
+dilettantish	1	134
+dilettantism	1	133
+disagreeable	1	136
+disagreeably	1	135
+disassembled	1	138
+disassembles	1	137
+discontinued	1	140
+discontinues	1	139
+disfunctions	1	144
+dishonorable	1	143
+dishonorably	1	142
+disjunctions	1	141
+disqualified	1	146
+disqualifies	1	145
+disreputable	1	148
+disreputably	1	147
+dissatisfied	1	150
+dissatisfies	1	149
+disseminated	1	152
+disseminates	1	151
+distritbuted	1	154
+distritbutes	1	153
+domesticated	1	156
+domesticates	1	155
+electrocuted	1	158
+electrocutes	1	157
+encapsulated	1	160
+encapsulates	1	159
+encrustation	1	225
+enfranchised	1	163
+enfranchiser	1	162
+equivalenced	1	165
+equivalences	1	164
+experimented	1	167
+experimenter	1	166
+expropriated	1	169
+expropriates	1	168
+extemporized	1	171
+extemporizer	1	170
+exterminated	1	173
+exterminates	1	172
+extinguished	2	175	176
+extinguisher	2	174	176
+extinguishes	2	174	175
+extrapolated	1	178
+extrapolates	1	177
+factionalism	1	180
+factionalist	1	179
+factitiously	1	184
+familiarized	1	183
+familiarizes	1	182
+fictitiously	1	181
+foreshadowed	1	186
+foreshadower	1	185
+gracefulness	1	188
+gratefulness	1	187
+heedlessness	1	294
+hospitalized	1	191
+hospitalizes	1	190
+hypothesized	2	193	194
+hypothesizer	2	192	194
+hypothesizes	2	192	193
+identifiable	1	196
+identifiably	1	195
+idiosyncracy	1	198
+idiosyncrasy	1	197
+immeasurable	1	200
+immeasurably	1	199
+impenetrable	1	202
+impenetrably	1	201
+imperishable	1	204
+imperishably	1	203
+impersonated	1	206
+impersonates	1	205
+impertinence	1	208
+impertinency	1	207
+implementers	1	210
+implementors	1	209
+inaccessible	1	212
+inaccessibly	1	211
+incalculable	1	214
+incalculably	1	213
+incomparable	1	216
+incomparably	1	215
+incompatible	1	218
+incompatibly	1	217
+inconsolable	1	220
+inconsolably	1	219
+incorporated	1	222
+incorporates	1	221
+incorrigible	1	224
+incorrigibly	1	223
+incrustation	1	161
+inexplicable	1	227
+inexplicably	1	226
+inextricable	1	229
+inextricably	1	228
+instantiated	1	231
+instantiates	1	230
+insufferable	1	233
+insufferably	1	232
+intelligible	1	235
+intelligibly	1	234
+interchanged	2	237	238
+interchanger	2	236	238
+interchanges	2	236	237
+interiorized	1	240
+interiorizes	1	239
+interjection	1	255
+interleaving	1	258
+interminable	1	244
+interminably	1	243
+intermingled	1	246
+intermingles	1	245
+internalized	1	248
+internalizes	1	247
+interpolated	1	250
+interpolates	1	249
+interrelated	1	252
+interrelates	1	251
+interrogated	1	254
+interrogates	1	253
+intersection	1	241
+interspersed	1	257
+intersperses	1	256
+interweaving	1	242
+investigated	1	260
+investigates	1	259
+invulnerable	1	262
+invulnerably	1	261
+irredeemable	1	264
+irredeemably	1	263
+irremediable	1	266
+irremediably	1	265
+irresistible	1	268
+irresistibly	1	267
+irreversible	1	270
+irreversibly	1	269
+isolationism	1	272
+isolationist	1	271
+localization	1	437
+longshoreman	1	275
+longshoremen	1	274
+manipulators	1	277
+manipulatory	1	276
+manufactured	2	279	280
+manufacturer	2	278	280
+manufactures	2	278	279
+materialized	1	282
+materializes	1	281
+miniaturized	1	284
+miniaturizes	1	283
+misconstrued	1	286
+misconstrues	1	285
+modification	1	46
+multiplexers	1	289
+multiplexors	1	288
+nationalized	2	291	334
+nationalizes	2	290	335
+necessitated	1	293
+necessitates	1	292
+needlessness	1	189
+obscurantism	1	296
+obscurantist	1	295
+oppositeness	1	22
+orchestrated	1	299
+orchestrates	1	298
+oversupplied	1	301
+oversupplies	1	300
+parallelized	1	303
+parallelizes	1	302
+participated	1	305
+participates	1	304
+perpetrating	1	308
+perpetration	1	309
+perpetuating	1	306
+perpetuation	1	307
+personalized	1	311
+personalizes	1	310
+photographed	1	313
+photographer	1	312
+precipitated	1	315
+precipitates	1	314
+predominated	1	317
+predominates	1	316
+prepositions	1	324
+processional	1	320
+professional	1	319
+projectively	1	327
+proliferated	1	323
+proliferates	1	322
+propositions	1	318
+proselytized	1	326
+proselytizes	1	325
+protectively	1	321
+quadriplegia	1	329
+quadriplegic	1	328
+questionable	1	331
+questionably	1	330
+ramification	1	333
+ratification	1	332
+rationalized	2	290	335
+rationalizes	2	291	334
+reactivating	1	109
+reactivation	1	110
+recalculated	1	339
+recalculates	1	338
+recalibrated	1	341
+recalibrates	1	340
+reciprocated	1	343
+reciprocates	1	342
+recirculated	1	345
+recirculates	1	344
+reclassified	2	111	347
+reclassifies	1	346
+recognizable	1	349
+recognizably	1	348
+reconfigured	2	351	352
+reconfigurer	2	350	352
+reconfigures	2	350	351
+reemphasized	2	112	354
+reemphasizes	2	113	353
+reformulated	1	356
+reformulates	1	355
+regenerating	1	114
+regeneration	1	115
+regenerative	1	116
+reintroduced	1	361
+reintroduces	1	360
+relinquished	1	363
+relinquishes	1	362
+remonstrated	2	121	365
+remonstrates	2	122	364
+remonstrator	1	123
+renouncement	1	124
+renunciation	1	125
+repetatively	1	370
+repetitively	1	369
+repositories	1	127
+reproducible	1	373
+reproducibly	1	372
+resignations	1	130
+restructured	1	376
+restructures	1	375
+risibilities	1	435
+sectionalism	1	379
+sectionalist	1	378
+sharecropped	1	381
+sharecropper	1	380
+somnambulism	1	383
+somnambulist	1	382
+spiritualism	1	385
+spiritualist	1	384
+standardised	1	387
+standardized	2	386	388
+standardizes	1	387
+stimulations	1	390
+stipulations	1	389
+straightened	1	392
+straightener	1	391
+strengthened	1	394
+strengthener	1	393
+subordinated	1	396
+subordinates	1	395
+superimposed	1	398
+superimposes	1	397
+suspiciously	1	33
+synchronized	2	401	402
+synchronizer	2	400	402
+synchronizes	2	400	401
+synonomously	1	404
+synonymously	1	403
+systematized	1	406
+systematizes	1	405
+tastefulness	1	438
+timelessness	1	409
+tirelessness	1	408
+tranquilized	1	411
+tranquilizer	1	410
+translucence	1	413
+translucency	1	412
+trapshooting	1	106
+unacceptable	1	416
+unacceptably	1	415
+unbelievable	1	418
+unbelievably	1	417
+understudied	1	420
+understudies	1	419
+unmanageable	1	422
+unmanageably	1	421
+unmistakable	1	424
+unmistakably	1	423
+unprofitable	1	426
+unprofitably	1	425
+unreasonable	2	428	429
+unreasonably	1	427
+unseasonable	1	427
+valorization	1	431
+vaporization	1	430
+venepuncture	1	433
+venipuncture	1	432
+vilification	1	436
+visibilities	1	377
+vivification	1	434
+vocalization	1	273
+wastefulness	1	407
+workingwoman	2	440	441
+workingwomen	1	439
+workingwonan	1	439
