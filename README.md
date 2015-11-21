@@ -1,4 +1,5 @@
-# wordladder-game-solver
+# Word Ladder puzzle game (and puzzle solver_
+
 This is very old word ladder puzzle game (and puzzle solver) I wrote in Java.
 A word ladder is a string of words that change one letter at a time. For
 example: "cat", "cot", "dot", "dog" is a word ladder that connects "cat" and
