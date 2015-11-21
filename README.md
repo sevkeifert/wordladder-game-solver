@@ -66,7 +66,7 @@ standalone Swing Application.
 
 Below is a rough explanation of how the game is designed:
 
-1. To write a word puzzle game, first you need a "good" dictionary of words.
+* To write a word puzzle game, first you need a "good" dictionary of words.
 First I looked online, and downloaded some free word lists.  I looked at a lot
 of sources, though ended up combining lists from (I think): 
 
@@ -89,7 +89,7 @@ Warning: I've never tried to sanitize the existing word lists.  :-)  Also, if I
 looked again (over a decade later), such a list might exist at this point.
 
 
-2.  Before I could write the game, first I had to write a "solver."   Since
+* Before I could write the game, first I had to write a "solver."   Since
 there's more than one possible solution to a given puzzle.  The concept of a
 word ladder solver is simple, but the challenge is getting it to run fast.  If
 thought isn't put into the core algorithm, the code will probably be incredibly
@@ -158,7 +158,7 @@ Some of these optimizations are lost when converting to an  application, since
 all wordlists are included in one jar file, rather than being downloaded as
 URL's as needed.  I left the initial URL code in, just commented out.
 
-3. Then, with this data, writing a "solver" is trivial. Given two words, I
+* Then, with this data, writing a "solver" is trivial. Given two words, I
 start from the first and build (or crawl) a tree of all possible word ladders
 starting from that node.  This branches out until all possibilities are found ,
 or until a branch contains the end word (a solution).  In this case, I just
@@ -177,7 +177,7 @@ flagrant left-bias.  resulting ladders would not be as short as possible.
 		level 2	   /\  | \
 
 
-4.  After the solver was built, it was possible to write the game.   The game
+* After the solver was built, it was possible to write the game.   The game
 logic is trivial.  Just find a random word ladder, paint the board, and check
 all proposed solutions dynamically (since there is more than one  possible
 solution for a puzzle). 
