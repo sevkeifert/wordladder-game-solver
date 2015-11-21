@@ -1,6 +1,15 @@
                                                      Kevin Seifert - 2002 GPL
 
 -------------------------------------------------------------------------------
+SCREENSHOTS
+-------------------------------------------------------------------------------
+
+![Alt text](https://github.com/sevkeifert/wordladder-game-solver/blob/master/screenshot.png?raw=true "WordLadder Game")
+
+![Alt text](https://github.com/sevkeifert/wordladder-game-solver/blob/master/screenshot2.png?raw=true "WordLadder Solver")
+
+
+-------------------------------------------------------------------------------
 REQUIREMENTS
 -------------------------------------------------------------------------------
 
