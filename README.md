@@ -28,7 +28,7 @@ TO COMPILE
 -------------------------------------------------------------------------------
 
 There are not many class files in the game/solver.
-I included a basic bash script for compiling the code on Linux:
+I included a simple bash script for compiling the code on Linux:
 
 	./build.sh
 
