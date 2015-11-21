@@ -1,8 +1,9 @@
 # wordladder-game-solver
-This is very old wordladder puzzle game (and puzzle solver) I wrote in Java.  A
-word ladder is a string of words that change one letter at a time. For example:
-"cat", "cot", "dot", "dog" is a word ladder that connects "cat" and "dog".  I
-made a couple quick tweaks to convert it from an applet to a Swing application. 
+This is very old word ladder puzzle game (and puzzle solver) I wrote in Java.
+A word ladder is a string of words that change one letter at a time. For
+example: "cat", "cot", "dot", "dog" is a word ladder that connects "cat" and
+"dog".  I made a couple quick tweaks to convert it from an applet to a Swing
+application. 
 
 Kevin Seifert - 2002 GPL
 
@@ -107,7 +108,7 @@ Most of the data can simply be ignored.
 
 B. Most of the time scanning for a solution can be shortened by *precomputing*
 as much as possible in advance.  There's only a finite number of words, and
-hence only a finite number of wordladders that can be formed from them.
+hence only a finite number of word ladders that can be formed from them.
 
 C. The data can be translated into a format that represents the space of all
 possible solutions, relative to a given starting point. 
