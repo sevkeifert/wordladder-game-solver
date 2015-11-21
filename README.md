@@ -63,7 +63,7 @@ one in Google's search listing, if you searched for "word ladder" :-) As a
 result, I occasionally got email question about how I designed the word ladder
 game, and how I optimized the speed.
 
-The game/solver was initially written as an Applet, and was designed to work
+The game/solver was initially written as an applet, and was designed to work
 over a network connection with very limited bandwidth, using only limited CPU,
 with no service on the backend.  I made a couple tweaks and converted it to a
 standalone Swing Application.  
@@ -151,9 +151,9 @@ first line is the number of words in the file. For the next lines, the first
 field is "the word", followed by the number of kin, and then row numbers of
 other words that are only different by one letter (line numbers).
 
-For the Applet, I also zipped the word lists (split by word size) and only
+For the applet, I also zipped the word lists (split by word size) and only
 download them as needed.  This reduced the dictionary size by 99% and
-also almost completely solved the problem.  Otherwise, the Applet would have
+also almost completely solved the problem.  Otherwise, the applet would have
 been incredible slow and unusable as it churned through every possible
 combination of hundreds of thousands of words.  What would have required a
 several megabyte download of dictionary data was reduced to a compressed packet
