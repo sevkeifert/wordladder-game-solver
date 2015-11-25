@@ -113,6 +113,12 @@ public class WordLadderGame extends JPanel {
 		final JComboBox wsgroup = new JComboBox(items);
 		final JComboBox lsgroup = new JComboBox(items2);
 
+		int wscount = wsgroup.getItemCount();
+		int lscount = lsgroup.getItemCount();
+		wsgroup.setSelectedIndex(wscount-1);
+		lsgroup.setSelectedIndex(lscount-1);
+
+		
 		//button event handles
 		button.addActionListener(
 			new ActionListener() {

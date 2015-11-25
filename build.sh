@@ -1,7 +1,7 @@
 
 # compile
-javac src/*.java -d bin/
 mkdir bin/
+javac src/*.java -d bin/
 cp -r src/* bin/
 
 # package
